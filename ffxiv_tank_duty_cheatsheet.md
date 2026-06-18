@@ -25,6 +25,27 @@ Sources / currentness:
 
 ---
 
+## Table of contents
+
+**Universal rules**
+- [Trash pulls](#trash-pulls) · [Bosses](#bosses) · [Tank utility abilities (Provoke/Shirk/Interject)](#tank-utility-abilities) · [Trial/raid etiquette](#normal-trial--raid-tank-etiquette) · [Alliance etiquette](#alliance-raid-tank-etiquette) · [Mechanic language](#common-mechanic-language)
+
+**Expansion duty lists**
+- [Current story fast lane — HW content](#current-story-fast-lane-heavensward-around-the-limitless-blue--the-vault)
+- [A Realm Reborn](#a-realm-reborn): [dungeons](#arr-dungeons) · [dungeon gotchas](#arr-dungeon-gotchas) · [trials](#arr-trials) · [alliance raids](#arr-alliance-raids) · [Coil raids](#arr-normal-raids-binding-coil-family)
+- [Heavensward](#heavensward): [dungeons](#hw-dungeons) · [dungeon gotchas](#hw-dungeon-gotchas) · [trials](#hw-trials) · [alliance raids](#hw-alliance-raids) · [Alexander raids](#hw-normal-raids-alexander)
+- [Stormblood](#stormblood) *(spoilers — collapsed)*: [dungeons](#sb-dungeons) · [dungeon gotchas](#sb-dungeon-gotchas) · [trials](#sb-trials) · [alliance raids](#sb-alliance-raids) · [Omega raids](#sb-normal-raids-omega)
+- [Shadowbringers](#shadowbringers) *(spoilers — collapsed)*: [dungeons](#shb-dungeons) · [dungeon gotchas](#shb-dungeon-gotchas) · [trials](#shb-trials) · [alliance raids](#shb-alliance-raids) · [Eden raids](#shb-normal-raids-eden)
+- [Endwalker](#endwalker) *(spoilers — collapsed)*: [dungeons](#ew-dungeons) · [dungeon gotchas](#ew-dungeon-gotchas) · [trials](#ew-trials) · [alliance raids](#ew-alliance-raids) · [Pandæmonium raids](#ew-normal-raids-pandæmonium)
+- [Dawntrail](#dawntrail) *(spoilers — collapsed)*: [dungeons](#dt-dungeons) · [dungeon gotchas](#dt-dungeon-gotchas) · [trials](#dt-trials) · [alliance raids](#dt-alliance-raids) · [Arcadion raids](#dt-normal-raids-arcadion)
+
+**Other content**
+- [Variant / Criterion / Deep Dungeon / Field Operations](#variant--criterion--deep-dungeon--field-operation-notes)
+- [Quick roulette checklist](#quick-i-just-loaded-into-roulette-checklist)
+- [Warrior-specific notes](#warrior-specific-notes)
+
+---
+
 ## Universal tank rules
 
 ### Trash pulls
@@ -189,6 +210,24 @@ You are around late base HW. These are the relevant near-term duties.
 | **The Wanderer's Palace (Hard)** | Tonberry/standard boss mechanics. Keep adds under control. |
 | **Amdapor Keep (Hard)** | More AoEs/adds. Face bosses away and move only when needed. |
 
+### ARR dungeon gotchas
+
+**Copperbell Mines** — Party must interact with the prisoner cages at set points to progress boss phases. Cannot be DPS-skipped.
+
+**Brayflox's Longstop** — Hellbender (first boss) constantly drops poison puddles under itself. Drag it out of them; standing in the puddles kills the party faster than the boss does.
+
+**The Sunken Temple of Qarn** — Doom on the Adjudicator fight: stand on the glowing stone floor slab before the timer hits zero. The slab is in the center of the room. Missing it is instant death regardless of HP.
+
+**Cutter's Cry** — Chimera: Dragon's Voice = donut AoE, get in close to the boss. Ram's Voice = point-blank AoE, get away from the boss. Everyone reverses these on the first run.
+
+**Dzemael Darkhold** — The crystal pillars in the Batraal boss room reduce incoming damage significantly. Pull and keep the boss near a pillar. Fighting outside the light makes it much more painful than it needs to be.
+
+**The Aurum Vale** — Morbol boss stacks a poison debuff that kills you without a cure. The gleaming rinds on the ground (Ovibos Milk) cleanse it; pick them up and use them. Also: pull the first room in small groups. Overpulling the entry corridor is the most common disaster in this dungeon.
+
+**The Wanderer's Palace** — Tonberry King accumulates resentment from every hit it lands on any party member. At high stacks it one-shots whoever it looks at. Kill it fast.
+
+**Amdapor Keep** — Demon Wall pushes forward and knocks you into the pit behind the party. Move toward the boss continuously or the wall wins.
+
 ## ARR trials
 
 | Duty | Tank notes |
@@ -252,6 +291,20 @@ Coils are old 8-player raids. Many are not in normal roulette and can be weird u
 | **Baelsar's Wall** | Late-HW bridge dungeon. Trash and bosses are straightforward but hit harder than ARR. |
 | **Sohm Al (Hard)** | Dragon/arena mechanics. Tank cleanly, move from bad ground. |
 
+### HW dungeon gotchas
+
+**Neverreap** — Khimaira (first boss) uses a knockback near the arena edge. Use Arm's Length or stay toward the center. Getting knocked off the floating platform is a long run back.
+
+**The Vault** — Ser Charibert (second boss) lights candles that spread fire across the floor. Move the boss around the room as fire claims floor space. Tanks who plant in one spot end up fighting in a fire pit.
+
+**The Great Gubal Library** — Evisiscarae (second boss): avoid stepping on the dark open-book tiles on the floor. They deal heavy damage. Navigate around them while keeping the boss faced away.
+
+**The Antitower** — Calcabrina (final boss) spawns golden and silver chess piece adds. Keep them separated. If they converge they enrage/buff each other and the fight deteriorates fast.
+
+**Sohr Khai** — One encounter has a dragon-eye gaze attack. Turn your character and camera away when the eye activates. The tell is a red glow; looking at it applies a crippling debuff.
+
+**Baelsar's Wall** — Magitek Ray enemies in trash pulls have frontal line AoEs. They read as normal trash but will cleave the party if you let them face the wrong way.
+
 ## HW trials
 
 | Duty | Tank notes |
@@ -306,6 +359,16 @@ Coils are old 8-player raids. Many are not in normal roulette and can be weird u
 | **The Burn** | Some bosses punish bad movement. Keep boss stable and avoid greed. |
 | **Saint Mocianne's Arboretum (Hard)** | Poison/plant trash. Use mitigation; watch boss gimmicks. |
 | **The Ghimlyt Dark** | War-zone dungeon. Pulls and bosses are busy; keep packs under control. |
+
+### SB dungeon gotchas
+
+**Bardam's Mettle** — Second boss Aratunaht-ja is a horse you herd, not a boss you tank. Use the duty action (Mount) to ride it to the marked positions. The "tanking" phase is horse wrangling.
+
+**Doma Castle** — The final area has live Magitek bombs on the ground. Don't park the group on them.
+
+**The Burn** — First boss Hedetet partially crystallizes mid-fight and becomes untargetable. DPS must break the crystal shell; the tank's job during this window is to hold the adds that spawn. It is a split-phase, not a straight tank-and-spank.
+
+**The Ghimlyt Dark** — Final boss Mark III-B Magitek Colossus has a duty-action phase (ceruleum fuel tank). Someone must pick it up and fire it to deal damage during the phase; normal attacks do not work.
 
 ## SB trials
 
@@ -362,6 +425,18 @@ Coils are old 8-player raids. Many are not in normal roulette and can be weird u
 | **Matoya's Relict** | Frog/pig/cauldron style gimmicks. Tank stable and solve arena. |
 | **Paglth'an** | Late ShB dungeon. Trash hits; boss mechanics are readable but busy. |
 
+### ShB dungeon gotchas
+
+**Holminster Switch** — First boss Forgiven Dissonance spawns small adds (Forgiven Shame) mid-fight. If they reach the boss it heals. Tank picks them up immediately; DPS kills them before going back to the boss. This is the most common first-dungeon wipe in ShB.
+
+**The Qitana Ravel** — Lozatl boss: stone statues along the walls periodically light up and fire gaze attacks. Turn your character and camera away from any glowing statue before it fires. Easy to miss if you are tunnel-visioning the boss.
+
+**Malikah's Well** — Second boss Amphibious Talos floods the arena in stages. The safe zone shrinks each time. Stand in the dry area; the flooded section stacks a lethal uncapped DoT.
+
+**Mt. Gulg** — Forgiven Cruelty (first boss) casts Gibbet Cage, trapping a random party member. Destroy the cage to free them while continuing to hold the boss.
+
+**Amaurot** — Proto-Ultima (final boss) spawns black and white orbs that move around the arena. They deal massive damage if they collide. Give the orb handlers space and do not drag the boss into the orb paths.
+
 ## ShB trials
 
 | Duty | Tank notes |
@@ -416,6 +491,22 @@ Coils are old 8-player raids. Many are not in normal roulette and can be weird u
 | **Lapis Manalis** | Snow/void mechanics. Trash can hit; use cooldowns. |
 | **The Aetherfont** | Watch arena transformations and boss tells. |
 | **The Lunar Subterrane** | Late EW. Busy bosses; mitigate and follow floor tells. |
+
+### EW dungeon gotchas
+
+**The Tower of Zot** — All three bosses (Minduruva, Sanduruva, Cinduruva) flip between center-safe and edge-safe phases based on their active element. Read the ground glow; the safe zone inverts each time they change elements. Standing in the wrong zone is lethal.
+
+**The Tower of Babil** — Barnabas boss magnetizes the arena floor and you. You receive a polarity status and must move to the matching side or get flung hard. First-timers usually eat this once before understanding it.
+
+**Ktisis Hyperboreia** — Lyssa boss freezes party members into ice statues. The boss's subsequent AoEs reflect off the statues. Do not tank the boss in a line through frozen players; the reflection hits whoever is behind them.
+
+**The Dead Ends** — Ma Famfrit boss applies Breathtaker, a countdown drowning debuff. Get inside the visible air bubble on the floor before the timer expires or you die. The bubble is not permanent; time your movement.
+
+**Smileton** — All three bosses are pure puzzle mechanics with almost no conventional tanking. There is no "hold boss and face away" rhythm here; just solve what the arena is telling you.
+
+**The Aetherfont** — Lyngbakr (first boss) progressively freezes sections of the arena. Safe floor shrinks as the fight goes on. Stay in the remaining unfrozen section.
+
+**The Lunar Subterrane** — Dark Elf (final boss) creates a mirror clone of itself. Only the real boss takes damage; the clone reflects attacks. Identify the original before settling into position.
 
 ## EW trials
 
@@ -473,6 +564,16 @@ Currentness note: this section includes Dawntrail duties known through Patch 7.5
 | **The Meso Terminal** | Patch dungeon. Role/party-list mechanics can matter; stay aware. |
 | **Mistwake** | Patch 7.4 dungeon. Modern expert-style mechanics; pull cleanly. |
 | **The Clyteum** | Patch 7.5 dungeon. Current expert-style dungeon; expect sharper mechanics and ilvl expectations. |
+
+### DT dungeon gotchas
+
+**Origenics** — The Deceiver boss clones itself. Only the original takes damage; clones reflect or do nothing. Target the one that is visually distinct — usually the one still casting or with a different aura.
+
+**Worqor Zormor** — Ryoqor Tertius boss: sections of the arena become icy and cause sliding. Don't position at a platform edge when the ice mechanic activates or a slide sends you off.
+
+**The Strayborough Deadwalk** — Necromancer boss uses forced march: your movement inputs invert for a few seconds. Stop pressing movement keys before the effect resolves, then correct. Trying to fight through it makes it worse.
+
+**Yuweyawata Field Station, The Underkeep, The Meso Terminal, Mistwake, The Clyteum** — These are the expert-tier dungeons for their respective patches. Mechanics are faster and more punishing than MSQ dungeons. Use Interject, keep the boss still, and expect party-list mechanics to actually matter.
 
 ## DT trials
 
