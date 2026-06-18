@@ -1,0 +1,68 @@
+FFXIV REPOSITORY ACCURACY AUDIT
+Audit date: 2026-06-18
+Game baseline: Patch 7.5
+
+Scope
+-----
+Reviewed all six Markdown files in this repository. Existing files were not
+modified. Detailed findings are in the corresponding *_accuracy_issues.txt
+files.
+
+Overall result
+--------------
+
+UNSAFE / EXTENSIVE ERRORS
+
+1. ffxiv_tank_duty_cheatsheet.md
+2. ffxiv_healer_duty_cheatsheet.md
+3. ffxiv_dps_duty_cheatsheet.md
+
+These three guides repeatedly assign bosses to the wrong dungeon, put bosses
+in the wrong order, describe mechanics belonging to other encounters, invent
+mechanics, and omit actual bosses. The errors are systematic from ARR through
+Endwalker, not isolated typos. The Dawntrail named-boss entries also contain
+errors. These files should not be used as duty guides without a rewrite based
+on encounter-specific sources.
+
+MOSTLY ACCURATE / LIMITED OR NO CONFIRMED ERRORS
+
+4. ffxiv_poetics_and_artifact_gear_ladder.md
+   One misleading recommendation was found; the factual gear ladder checked
+   out through Patch 7.5.
+
+5. ffxiv_squadron_notes.md
+   The progression gates and class-change facts checked out. Some tactical
+   recommendations are opinion rather than verifiable fact; one Ungarmax claim
+   needs qualification.
+
+6. ffxiv_sirclucks_market_board_farming_notes.md
+   The named drops, zones, recipes, and retainer venture claims checked out.
+   No confirmed factual error was found in the audited claims.
+
+Important repeated errors
+-------------------------
+
+- Physical-ranged jobs (BRD, MCH, DNC) cannot raise party members.
+- Weakness does not increase damage taken; it reduces main attributes.
+- DPS jobs no longer have general enmity-drop actions.
+- Plenary Indulgence must be used before the qualifying AoE heal, not after.
+- Liturgy of the Bell triggers from damage taken by the White Mage, not from
+  the bell itself being attacked.
+- Numerous ARR mechanics use pre-rework or completely unrelated information.
+- Many dungeon boss rosters from Heavensward through Endwalker are incorrect.
+
+Primary/currentness sources
+---------------------------
+
+Official Patch 7.5 notes:
+https://na.finalfantasyxiv.com/lodestone/topics/detail/07320affa7e0fcd9685afcbe54fbf55405b6d822
+
+Official FFXIV job guide:
+https://na.finalfantasyxiv.com/jobguide/battle/
+
+Official Eorzea Database duty index:
+https://na.finalfantasyxiv.com/lodestone/playguide/db/duty/
+
+Cross-check reference used for encounter rosters and mechanics:
+https://ffxiv.consolegameswiki.com/wiki/Dungeons
+
