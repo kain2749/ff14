@@ -176,39 +176,101 @@ You are around late base HW. These are the relevant near-term duties.
 
 ## ARR dungeons
 
-| Duty | Tank notes |
-|---|---|
-| **Sastasha** | Stance on, AoE packs, grab adds at final boss. First real dungeon; do not overthink it. |
-| **The Tam-Tara Deepcroft** | Linear. Grab cultist packs, face bosses away, kill adds. |
-| **Copperbell Mines** | Old dungeon weirdness. Bosses have gimmicks more than damage. Watch party/objectives. |
-| **Halatali** | Arena-style rooms. Pick up adds and keep enemies grouped. |
-| **The Thousand Maws of Toto-Rak** | Follow path, AoE trash, dodge puddles/web nonsense. |
-| **Haukke Manor** | Use keys/objectives. Face bosses away. Final room can spawn adds; collect them. |
-| **Brayflox's Longstop** | Poison/ground puddles matter. Move bosses out of bad zones. |
-| **The Sunken Temple of Qarn** | Watch Doom/pads. Pull mobs onto required plates when needed. |
-| **Cutter's Cry** | Chimera rule: “dragon voice” close/in, “ram voice” out. Trash can slap. |
-| **The Stone Vigil** | Dragon pulls can hurt. Keep mobs faced away and use real mitigation. |
-| **Dzemael Darkhold** | Crystal light zones reduce damage early. Use them. Pull carefully. |
-| **The Aurum Vale** | Respect the first room. Pull small. Eat fruit for stacks. Do not turn the dungeon into a biohazard report. |
-| **The Wanderer's Palace** | Tonberry gimmicks. Keep moving but do not outrun party. |
-| **Castrum Meridianum** | Modern 4-player version: follow objectives, tank packs/bosses normally. |
-| **The Praetorium** | Mostly MSQ spectacle. Tank what is targetable, use mitigation on big casts. |
-| **Amdapor Keep** | Adds and positioning. Demon Wall-style movement checks; do not fall. |
-| **Pharos Sirius** | Older optional dungeon with more mechanics than expected. Control adds and stop DPS tunneling if needed. |
-| **Copperbell Mines (Hard)** | Boss gimmicks. Tank adds; watch objectives. |
-| **Haukke Manor (Hard)** | Add control matters. Do not drag cleaves through party. |
-| **The Lost City of Amdapor** | Watch debuffs/doors. Tank normally, interrupt/kill adds when obvious. |
-| **Halatali (Hard)** | Arena mechanics. Adds and positioning. |
-| **Brayflox's Longstop (Hard)** | Bomb chaos. Keep mobs grouped, move from bombs. |
-| **Hullbreaker Isle** | Boss gimmicks, arena hazards. Tank adds and do not stand in obvious nonsense. |
-| **The Tam-Tara Deepcroft (Hard)** | Creepy Edda follow-up. Adds and mechanics matter more than raw damage. |
-| **The Stone Vigil (Hard)** | Cannon/mechanic sections. Tank when tanking is possible; use devices when required. |
-| **Snowcloak** | Snowball/ice gimmicks. Pull cleanly and watch environmental mechanics. |
-| **Sastasha (Hard)** | More debuff/add mechanics. Pick up adds immediately. |
-| **The Sunken Temple of Qarn (Hard)** | Mummy/curse mechanics. Watch pads and debuffs. |
-| **The Keeper of the Lake** | Adds and boss mechanics. Keep bosses stable; handle dragons/adds cleanly. |
-| **The Wanderer's Palace (Hard)** | Tonberry/standard boss mechanics. Keep adds under control. |
-| **Amdapor Keep (Hard)** | More AoEs/adds. Face bosses away and move only when needed. |
+| Duty | Boss | Tank note |
+|---|---|---|
+| **Sastasha** | Denn the Orcatoothed | Adds spawn from the water pools; grab them before they scatter. |
+| | Karlabos | Tail Screw is a hard tankbuster; mitigation before it lands. |
+| | Captain Madison | Adds appear at low HP; grab them immediately or the healer dies. |
+| **The Tam-Tara Deepcroft** | First boss | Straightforward; face away, mitigate big hits. |
+| | Second boss | Adds spawn; collect them. |
+| | Galvanth the Dominator | Heavy slams; picks up and tosses party members; mitigation. |
+| **Copperbell Mines** | Kottos | Straightforward giant; mitigation on earth slams. |
+| | Ichorous Ire | Drops black slick; move the boss out of its own ooze. |
+| | Gyges the Great | Party must interact with prisoner cages mid-fight; hold him and eat hits while they do. |
+| **Halatali** | Thunderclap Guivre | Lightning circle AoEs; dodge and face away. |
+| | Hetairos | Charge attacks; don't stand in the charge path. |
+| | Tangata | Adds spawn; pick them up fast. |
+| **The Thousand Maws of Toto-Rak** | Coeurl O' Nine Tails | Face away; tail attacks; mitigation. |
+| | Nantosuelta | Drops webs on the floor; move the boss out of web puddles. |
+| | Goobbue | Slow and telegraphed; face away; dodge vine AoEs. |
+| **Haukke Manor** | Manor Jester + Manor Steward | Double boss; keep them apart so their cleaves don't overlap on the party. |
+| | Ahbahl | Charm and debuff attacks; mitigation on big casts. |
+| | Lady Amandine | Adds spawn mid-fight; collect them while holding the boss. |
+| **Brayflox's Longstop** | Hellbender | Permanently drops poison pools; drag it out of each puddle as they form. |
+| | Inferno Drake | Frontal fire cone; face strictly away from party at all times. |
+| | Great Yellow Pelican | Dive slam has knockback; stay toward the center of the arena. |
+| **The Sunken Temple of Qarn** | Teratotaur | Party herds adds onto pressure plates; hold the boss while they do. |
+| | Adjudicator | Doom debuff: stand on the glowing floor slab immediately. Missing it = instant death. |
+| | Miser's Mistress | Opens to spawn a golem add; grab it; keep both targets under control. |
+| **Cutter's Cry** | Alacran | Tail sting tankbuster; mitigation; face rear away from party. |
+| | Giant Tunnel Worm | Burrows and re-emerges; don't stand on the disturbed sand. |
+| | Chimera | Dragon's Voice = in close (donut); Ram's Voice = get away (point-blank). Everyone reverses these. |
+| **The Stone Vigil** | Cuca Fera | Frontal bite; face away; standard mitigation. |
+| | Isgebind | Ice patches deal DoT; dodge them; face breath away. |
+| | Chudo-Yudo | Heavy sequence of breath attacks; mitigation on the whole cast sequence. |
+| **Dzemael Darkhold** | All-seeing Eye | Crystal pillars reduce incoming damage; pull the boss near one. |
+| | Taulurd | Bomb creature; flashes before exploding; dodge. |
+| | Batraal | Crystal pillars still help here; stay in the light; multiple phases. |
+| **The Aurum Vale** | Coincounter | Mist stacks a lethal debuff throughout; pick up gleaming rinds (Ovibos Milk) to cleanse it. |
+| | Locksmith | Mist continues; cleanse stacks while tanking; armored, hits hard. |
+| | Miser's Mistress | Spawns golem adds; grab them; mist stack management is hardest at this boss. |
+| **The Wanderer's Palace** | Freeholder | Crab; pincer attacks; mitigation; nothing unusual. |
+| | Second boss | Tonberry encounter; watch for adds. |
+| | Tonberry King | Builds resentment from every hit on any party member; kill it fast. |
+| **Castrum Meridianum** | Lictor | Magitek armor; mitigation on casts; standard tank fight. |
+| | Rhitatyn sas Arvina | Circle AoEs and charge attacks; face away; mitigation on Wildfire-type casts. |
+| | Nero tol Scaeva | Phase shifts with Magitek beams; stay inside and use cooldowns. |
+| **The Praetorium** | Magitek Colossus | Straightforward; mitigate big mechanical attacks. |
+| | Gaius van Baelsar | Heavy raidwides; mitigation on big casts. |
+| | Ultima Weapon | Multi-phase primal integration; heavy mitigation throughout each phase shift. |
+| **Amdapor Keep** | Zombie Dragon | Face fire breath away from party; straightforward. |
+| | Demon Wall | Corridor encounter; the wall advances — move toward it constantly or get pushed into the pit. |
+| | Forgall | Body Slam is a heavy tankbuster; mitigation; occasionally jumps to random targets. |
+| **Pharos Sirius** | Zu | Giant bird; dive AoEs; dodge. |
+| | Symond the Unsinkable | Mitigation; straightforward. |
+| | Siren | Charm attacks; face away; interrupt charm cast if available; charmed players attack allies. |
+| **Copperbell Mines (Hard)** | First boss | Harder mechanics; mitigation on big hits. |
+| | Second boss | Add control phase; harder than original. |
+| | Final boss | Party still handles objectives; hold the boss and eat hits while they do. |
+| **Haukke Manor (Hard)** | First boss | More lethal than original; mitigation. |
+| | Second boss | Charm mechanics are more dangerous. |
+| | Lady Amandine (Hard) | Adds are more lethal; heavy tankbusters; don't let cleaves reach the party. |
+| **The Lost City of Amdapor** | First boss | Door/curse mechanics active; don't trigger wrong doors. |
+| | Second boss | Adds and debuffs; mitigation. |
+| | Diabolos | Heavy nightmare raidwides; mitigate big casts; void mechanic boss. |
+| **Halatali (Hard)** | First boss | More arena mechanics; dodge. |
+| | Second boss | Adds and positioning. |
+| | Final boss | Heavier adds and arena pressure; mitigation. |
+| **Brayflox's Longstop (Hard)** | First boss | Bombs on the floor; don't park on them. |
+| | Second boss | Poison/mechanic phase; cleanse when needed. |
+| | Gobmachine G-VI | Giant Magitek walker; bomb rockets; stay out of blast zones; heavy tankbusters. |
+| **Hullbreaker Isle** | Sasquatch | Throws barrels; dodge; mitigation on slams. |
+| | Second boss | Arena hazards; positioning. |
+| | Kraken | Tentacle-add fight; kill or grab tentacle adds; they deal most of the incoming damage. |
+| **The Tam-Tara Deepcroft (Hard)** | First boss | Undead adds; pick them up. |
+| | Second boss | Heavier mechanics; mitigation. |
+| | Edda Pureheart | Possessed final boss; raidwides and adds; stay alive. |
+| **The Stone Vigil (Hard)** | First boss | Cannon sections; use them when available; tank whatever comes through. |
+| | Second boss | Dragon; heavier than original. |
+| | Final boss | Hardest dragon in the dungeon; mitigation and cooldown management. |
+| **Snowcloak** | First boss | Ice AoEs; dodge; face away. |
+| | Second boss | Snowball/ice gimmick; don't get caught. |
+| | Fenrir | Howl is a heavy raidwide; icy ground patches; face away; mitigation on big claw attacks. |
+| **Sastasha (Hard)** | First boss | More debuffs; mitigation. |
+| | Second boss | Add control; harder version. |
+| | Karlabos (Hard) | Tail Screw hits significantly harder; mitigation is mandatory; consider invuln. |
+| **The Sunken Temple of Qarn (Hard)** | First boss | Mummy/curse mechanics; watch debuffs. |
+| | Second boss | Doom returns; stand on the pad. |
+| | Final boss | Harder adds and heavier hits. |
+| **The Keeper of the Lake** | Einhander | Magitek armor; mitigation on casts; standard tank fight. |
+| | Second boss | Magitek encounter; same approach. |
+| | Final boss | Ancient wyrm; face breath away from party; his AoEs are real even when the moment feels cinematic. |
+| **The Wanderer's Palace (Hard)** | First boss | Dream/tonberry encounter; straightforward. |
+| | Second boss | More tonberry mechanics. |
+| | Final boss | Harder resentment mechanic than the original Tonberry King; kill faster. |
+| **Amdapor Keep (Hard)** | First boss | Void mechanics; mitigation. |
+| | Second boss | Heavier AoEs; dodge. |
+| | Final boss | Heavy void fight; mitigation and invuln timing matter. |
 
 ### ARR dungeon gotchas
 
@@ -270,26 +332,62 @@ Coils are old 8-player raids. Many are not in normal roulette and can be weird u
 
 ## HW dungeons
 
-| Duty | Tank notes |
-|---|---|
-| **The Dusk Vigil** | HW damage starts feeling real. Use mitigation on trash. |
-| **Sohm Al** | Poison/dragon mechanics. Move bosses out of bad ground. |
-| **The Aery** | Face dragons away, pick up adds, dodge obvious AoEs. |
-| **The Vault** | Trash and bosses can punish autopilot. Clean pulls, mitigation, stable facing. |
-| **The Great Gubal Library** | Book mechanics. Watch floor symbols/pads, pick up adds. |
-| **The Aetherochemical Research Facility** | Long MSQ dungeon. Pull cleanly, use cooldowns, watch boss transformations. |
-| **Neverreap** | Wind/knockback mechanics. Position carefully. |
-| **The Fractal Continuum** | Adds and boss gimmicks. Keep bosses stable and do not overpull blind. |
-| **Saint Mocianne's Arboretum** | Poison/plant mechanics. Move from bad ground; group adds. |
-| **Pharos Sirius (Hard)** | Add-heavy. Control packs and avoid dragging cleaves into party. |
-| **The Antitower** | Gimmick bosses. Tank normally but watch transformations/arena effects. |
-| **The Lost City of Amdapor (Hard)** | Doors/marks/terror mechanics. Face away and follow party movement. |
-| **Sohr Khai** | Platforms and dragon mechanics. Watch edges and boss movement. |
-| **Hullbreaker Isle (Hard)** | Arena gimmicks. Pick up adds and respect boss movement. |
-| **Xelphatol** | Lots of trash. Use mitigation and keep enemies grouped. |
-| **The Great Gubal Library (Hard)** | More book floor mechanics. Keep boss stable and solve obvious symbols. |
-| **Baelsar's Wall** | Late-HW bridge dungeon. Trash and bosses are straightforward but hit harder than ARR. |
-| **Sohm Al (Hard)** | Dragon/arena mechanics. Tank cleanly, move from bad ground. |
+| Duty | Boss | Tank note |
+|---|---|---|
+| **The Dusk Vigil** | First boss | HW damage starts hurting; use mitigation. |
+| | Second boss | More sustained pressure; cooldown management. |
+| | Final boss | Heavy hits; mitigation. |
+| **Sohm Al** | Raskovnik | Plant creature; dodge tentacle AoEs; face away. |
+| | Myath | Molten creature; lava puddles form on the floor; move boss out of bad ground. |
+| | Tioman | Dragon; heavy breath and tail; face away; mitigation on tankbusters. |
+| **The Aery** | Rangda | Demon hybrid; frontal attacks; face away from party. |
+| | Gyascutus | Large dragon; charges and breath; keep boss still for the healer. |
+| | Final boss | Face breath away; pick up any adds in the final phase. |
+| **The Vault** | Ser Adelphel + Ser Grinnaux | Knight duo; keep their cleaves from overlapping on the party. |
+| | Ser Charibert | Lights candles that spread fire; move the boss around the room to preserve floor space. |
+| | Final knight | Heavy Holy raidwides; mitigation on big casts; stay close to avoid long-range beam punish. |
+| **The Great Gubal Library** | Demon Tome | Scripted AoE patterns from a floating book; dodge the tile tells. |
+| | Evisiscarae | Don't step on the dark open-book tiles on the floor; navigate around them. |
+| | Final boss | Heavy hits; straightforward tank fight; mitigation. |
+| **The Aetherochemical Research Facility** | First boss | Magitek encounter; mitigation on big casts. |
+| | Igeyorhm | Heavy AoEs; mitigation; phase shifts change the attack pattern. |
+| | Lahabrea + Igeyorhm | Combined encounter; face their cleaves away; heavy raidwides; invuln if dual-cast tankbuster stacks badly. |
+| **Neverreap** | Canu Vali | Bird; dive attacks; dodge; standard. |
+| | Sisiutl | Sea serpent; tail cleave; face strictly away from party. |
+| | Khimaira | Knockback near arena edge; Arm's Length or stay center; heavy breath attacks. |
+| **The Fractal Continuum** | First boss | Robot; laser patterns; mitigation on big casts. |
+| | Second boss | Mechanical phases; heavy raidwides; mitigation. |
+| | Final boss | Adds and alarm mechanics; pick up adds fast. |
+| **Saint Mocianne's Arboretum** | Veteran Goobbue | Vine AoEs; face away; dodge vine slams. |
+| | Belladonna | Drops pollen clouds; move boss out of them. |
+| | Final boss | Paralyze attacks; mitigation; don't let the status window kill you. |
+| **Pharos Sirius (Hard)** | First boss | More lethal add control than original. |
+| | Second boss | Heavier mechanics. |
+| | Siren (Hard) | Much more lethal charm and add phase; interrupt or face away on charm cast immediately. |
+| **The Antitower** | Fullflap | Fat flying creature; fairly simple; mitigation. |
+| | Calca and Brina | Two chess piece halves; keep them separated; they buff each other if they converge. |
+| | Calcabrina | Merged form; chess piece adds still spawn; keep them apart or the fight escalates. |
+| **The Lost City of Amdapor (Hard)** | First boss | Terror debuffs active; follow party; don't trigger wrong doors or markings. |
+| | Second boss | Heavier mechanics and debuffs. |
+| | Final boss | Heavy raidwides; mitigation. |
+| **Sohr Khai** | Cochineal | Small dragon; fairly simple; face away. |
+| | Gyath | Larger dragon; breath and charge; face away; dodge charges. |
+| | Nidhogg | Dragon eye gaze: turn camera and character away when it activates; heavy breath and claw attacks. |
+| **Hullbreaker Isle (Hard)** | First boss | Harder arena version than original. |
+| | Second boss | Sea/island gimmick; positioning. |
+| | Final boss | Adds and arena mechanics; mitigation. |
+| **Xelphatol** | Dotoli Ci | Ixal archer; dodge arrow AoEs; face away. |
+| | Nuzal Hueloc | Heavy charge attacks; don't stand in the charge path. |
+| | Tozol Huatotl | Final Ixal boss; adds and wind mechanics; collect adds fast. |
+| **The Great Gubal Library (Hard)** | First boss | More complex book tile patterns; navigate carefully. |
+| | Second boss | Heavier mechanics. |
+| | Final boss | Harder scripted AoE patterns; mitigation. |
+| **Baelsar's Wall** | The Griffin | Magitek Griffin; charge AoE patterns; dodge; face away. |
+| | Second boss | Magitek armor; standard tank fight; mitigation. |
+| | Final boss | Heavy hits and mechanics; cooldown management. |
+| **Sohm Al (Hard)** | First boss | Dragon mechanics; dodge; harder than original. |
+| | Second boss | More lethal arena mechanics. |
+| | Final boss | Harder dragon; heavy breath; mitigation. |
 
 ### HW dungeon gotchas
 
@@ -342,23 +440,53 @@ Coils are old 8-player raids. Many are not in normal roulette and can be weird u
 
 ## SB dungeons
 
-| Duty | Tank notes |
-|---|---|
-| **The Sirensong Sea** | First SB dungeon. Pull normally; watch charm/ghost mechanics. |
-| **Shisui of the Violet Tides** | Water/transform mechanics. Keep enemies grouped; dodge obvious bad. |
-| **Bardam's Mettle** | Trash can hit hard. Use mitigation aggressively. Second boss is mechanics, not tanking. |
-| **Doma Castle** | Pulls hit hard. Use cooldowns and watch cannons/line AoEs. |
-| **Castrum Abania** | Late-leveling damage. Boss elemental mechanics; watch colors/status. |
-| **Ala Mhigo** | MSQ cap dungeon. Adds and boss mechanics; use cooldowns properly. |
-| **Kugane Castle** | Optional 70. Trash/boss gimmicks. Pull cleanly. |
-| **The Temple of the Fist** | Optional 70. Monk temple mechanics; dodge and keep boss stable. |
-| **The Drowned City of Skalla** | Standard 70 dungeon. Watch transforms and AoEs. |
-| **Hells' Lid** | Fire/lava mechanics. Keep trash grouped, dodge arena hazards. |
-| **The Fractal Continuum (Hard)** | Robot/add mechanics. Pick up adds fast. |
-| **The Swallow's Compass** | Boss mechanics can toss people. Position carefully. |
-| **The Burn** | Some bosses punish bad movement. Keep boss stable and avoid greed. |
-| **Saint Mocianne's Arboretum (Hard)** | Poison/plant trash. Use mitigation; watch boss gimmicks. |
-| **The Ghimlyt Dark** | War-zone dungeon. Pulls and bosses are busy; keep packs under control. |
+| Duty | Boss | Tank note |
+|---|---|---|
+| **The Sirensong Sea** | First boss | Ghost/spirit; charm mechanic; face away, interrupt charm. |
+| | Second boss | Adds and arena; positioning. |
+| | Lorelei | Ghost captain; heavy charm and adds; interrupt or face away immediately on charm cast. |
+| **Shisui of the Violet Tides** | Amikiri | Crab creature; claw attacks; face away. |
+| | Ruby Princess | Transform mechanic; damage spikes on phase shift; mitigation. |
+| | Shisui Yuzuka | Samurai-type final boss; charges and cleaves; face away; mitigation on heavy slashes. |
+| **Bardam's Mettle** | Galura | Beast mob encounter; fairly standard; mitigation. |
+| | Aratunaht-ja | This is the horse boss; use the duty action (Mount) to ride it to marked positions — there is no conventional tanking here. |
+| | Magnai the Oathkeeper | Xaela warrior; heavy slams; mitigation; face away from party. |
+| **Doma Castle** | Magitek Rearguard | Magitek armor; mitigation on casts; straightforward. |
+| | Hypertuned Grynewaht | Garlean soldier; heavy hits; mitigation; dodge line AoEs. |
+| | Mark III-B Magitek Colossus | Giant Magitek; bombs in the area; don't park on them; heavy tankbusters. |
+| **Castrum Abania** | Inferno Drake | Fire breath; face away strictly. |
+| | Magna Roader | Magitek roller; dodge charge patterns. |
+| | Aulus mal Asina | Garlean boss; heavy raidwides and Magitek beams; mitigation. |
+| **Ala Mhigo** | Dominans | Adds and arena; collect them. |
+| | Zenos yae Galvus (echo) | Echo encounter; heavy hits; mitigation; keep him stable. |
+| | Fordola rem Lupis | Final boss; heavy hits and raidwides; invuln if the tankbuster combo stacks badly. |
+| **Kugane Castle** | Tengu | Jump and clone mechanic; attack the right copy. |
+| | Yojimbo | Slow, heavy attacks; mitigation on every swing; face away. |
+| | Gilgamesh | Multi-phase classic boss; adds in final phase; collect them; mitigation on big swings. |
+| **The Temple of the Fist** | First boss | Monk-themed; combo AoEs; dodge and face away. |
+| | Second boss | Heavier combos; mitigation. |
+| | Final boss | Final monk boss; heavy hits and AoE patterns; mitigation and stable facing. |
+| **The Drowned City of Skalla** | Kelpie | Water horse; wave knockbacks; position toward center. |
+| | Zonure | Lizard; conal cleaves; face strictly away from party. |
+| | Old One | Ancient creature; transform phases; mitigation on phase-shift big hit. |
+| **Hells' Lid** | First boss | Lava/fire mechanics; dodge; face away. |
+| | Second boss | Heavy arena hazards; positioning. |
+| | Genbu | Turtle; spinning shell attack; get behind boss; mitigation on spin. |
+| **The Fractal Continuum (Hard)** | First boss | Robot; harder laser patterns; mitigation. |
+| | Second boss | Mechanical adds; pick them up fast. |
+| | Final boss | Hardest mechanical boss; heavy raidwides and adds; mitigation. |
+| **The Swallow's Compass** | First boss | Knockback; position toward center. |
+| | Second boss | Toss mechanic; mitigation. |
+| | Qitian Dasheng | Monkey king; heavy combos; face away; mitigation on big slams. |
+| **The Burn** | Hedetet | Crystallizes mid-fight; DPS breaks the crystal while tank holds the adds that spawn. |
+| | Second boss | Heavy movement punish; keep boss stable. |
+| | Mist Dragon | Clone phase; attack the real dragon; mitigation on breath. |
+| **Saint Mocianne's Arboretum (Hard)** | First boss | Plant/poison trash extends to bosses; mitigation. |
+| | Belladonna (Hard) | Heavier pollen; move boss out of clouds aggressively. |
+| | Final boss | Hardest in this dungeon; heavy adds and poison; mitigation throughout. |
+| **The Ghimlyt Dark** | First boss | War-zone; straightforward Magitek; mitigation. |
+| | Second boss | Heavier; dodge and face away. |
+| | Mark III-B Magitek Colossus | Duty-action phase; pick up and fire the ceruleum tank to damage the boss; normal attacks don't work during that window. |
 
 ### SB dungeon gotchas
 
@@ -409,21 +537,47 @@ Coils are old 8-player raids. Many are not in normal roulette and can be weird u
 
 ## ShB dungeons
 
-| Duty | Tank notes |
-|---|---|
-| **Holminster Switch** | Trash starts hitting harder. Use real cooldown rotation. |
-| **Dohn Mheg** | Frog/fae mechanics. Watch forced movement and boss tells. |
-| **The Qitana Ravel** | Boss telegraphs are readable if you look at walls/statues. |
-| **Malikah's Well** | Ground effects and line attacks. Keep boss still when safe. |
-| **Mt. Gulg** | Big pulls can be spicy. Use mitigation; do not be a hero without healer confidence. |
-| **Amaurot** | MSQ spectacle dungeon. Dodge environmental destruction and boss tells. |
-| **The Twinning** | Optional. Robot/time mechanics; tank normally, dodge lasers. |
-| **Akadaemia Anyder** | Optional. Adds and boss gimmicks. |
-| **The Grand Cosmos** | Fire/furniture mechanics. Do not park boss in bad. |
-| **Anamnesis Anyder** | Water/ancient mechanics. Pull cleanly; watch AoEs. |
-| **The Heroes' Gauntlet** | Trash waves and role-flavored bosses. Keep adds grouped. |
-| **Matoya's Relict** | Frog/pig/cauldron style gimmicks. Tank stable and solve arena. |
-| **Paglth'an** | Late ShB dungeon. Trash hits; boss mechanics are readable but busy. |
+| Duty | Boss | Tank note |
+|---|---|---|
+| **Holminster Switch** | Forgiven Dissonance | Spawns Forgiven Shame adds mid-fight; if they reach the boss it heals — grab them immediately. |
+| | Forgiven Cruelty | Gibbet Cage traps a party member; kill the cage while holding the boss. |
+| | Forgiven Obscenity | Final boss; heavy raidwides and AoE patterns; mitigation. |
+| **Dohn Mheg** | Aenc Thon | Fae boss; forced movement mechanic; don't fight the knockback. |
+| | Griaule | Dragon; heavy breath; face away; mitigation. |
+| | Titania | Primal; adds and arena; tanks control adds and mitigate heavy hits during primal phase. |
+| **The Qitana Ravel** | Batsquatch | Large bat; sonic AoEs; face away; mitigation. |
+| | Lozatl | Statues on the walls light up and fire gaze attacks; turn away from glowing statues before they fire. |
+| | Eros | Final boss; heavy raidwides and clone patterns; mitigation. |
+| **Malikah's Well** | First boss | Ground effects; move boss out of bad. |
+| | Amphibious Talos | Arena floods in stages; stay in the dry zone; standing in water stacks a lethal DoT. |
+| | Storge | Final boss; heavy line attacks; face strictly away; mitigation. |
+| **Mt. Gulg** | Forgiven Cruelty | Gibbet Cage here too; kill it fast or the trapped party member dies. |
+| | Forgiven Ignorance | Heavy raidwides; mitigation on big casts. |
+| | Forgiven Revelry | Final boss; heavy raidwides and AoEs; mitigation throughout. |
+| **Amaurot** | First boss | Environmental destruction; dodge falling debris and boss tells. |
+| | Second boss | Heavier AoEs; mitigation. |
+| | Proto-Ultima | Black and white orbs spawn; keep them separated — they deal massive damage if they collide. |
+| **The Twinning** | First boss | Robot; laser patterns; mitigation. |
+| | Second boss | Time mechanic; clone attacks; dodge. |
+| | Final boss | Heaviest robot fight; adds and raidwides; mitigation and adds control. |
+| **Akadaemia Anyder** | First boss | Adds and gimmick patterns; collect them. |
+| | Second boss | Heavier gimmick; mitigation. |
+| | Final boss | Heavy adds and raidwides; mitigation. |
+| **The Grand Cosmos** | First boss | Fire/furniture gimmick; don't park boss in bad. |
+| | Second boss | Heavy arena patterns; dodge and face away. |
+| | Seeker of Solitude | Final boss; furniture/carpet mechanics matter; heavy raidwides; mitigation. |
+| **Anamnesis Anyder** | First boss | Water/ancient mechanics; dodge. |
+| | Second boss | Heavier AoEs; mitigation. |
+| | Final boss | Heavy ancient patterns; mitigation throughout. |
+| **The Heroes' Gauntlet** | First boss | Role-flavored encounter; straightforward for tank. |
+| | Second boss | Heavier; adds and AoEs. |
+| | Final boss | Heavy raidwides and adds; mitigation. |
+| **Matoya's Relict** | Funnels + Mudman | Cauldron gimmick; solve the puzzle; tank whatever remains. |
+| | Second boss | Heavier gimmick; mitigation. |
+| | Forgiven Foolishness | Final boss; heavy raidwides; mitigation. |
+| **Paglth'an** | First boss | Trash hits hard here; mitigation. |
+| | Second boss | Busy mechanics; dodge and face away. |
+| | Alzadaal | Final boss; heavy AoEs and raidwides; mitigation. |
 
 ### ShB dungeon gotchas
 
@@ -476,21 +630,47 @@ Coils are old 8-player raids. Many are not in normal roulette and can be weird u
 
 ## EW dungeons
 
-| Duty | Tank notes |
-|---|---|
-| **The Tower of Zot** | First EW dungeon. Trash hurts. Bosses use stacked mechanics. |
-| **The Tower of Babil** | Pulls and bosses are busy. Use mitigation on trash. |
-| **Vanaspati** | Heavy story dungeon. Watch environmental AoEs and boss tells. |
-| **Ktisis Hyperboreia** | Boss tells are often animation-based. Do not autopilot. |
-| **The Aitiascope** | MSQ dungeon. Boss mechanics are thematic but readable. |
-| **The Dead Ends** | Capstone dungeon. Raidwides/debuffs; mitigate and avoid avoidable damage. |
-| **Smileton** | Optional 90. Mechanic puzzle bosses. |
-| **The Stigma Dreamscape** | Optional 90. Add waves and robot mechanics. |
-| **Alzadaal's Legacy** | Patch dungeon. Standard pulls; watch boss mechanics. |
-| **The Fell Court of Troia** | Void dungeon. Adds and arena tells. |
-| **Lapis Manalis** | Snow/void mechanics. Trash can hit; use cooldowns. |
-| **The Aetherfont** | Watch arena transformations and boss tells. |
-| **The Lunar Subterrane** | Late EW. Busy bosses; mitigate and follow floor tells. |
+| Duty | Boss | Tank note |
+|---|---|---|
+| **The Tower of Zot** | Minduruva | Elemental phase flip; safe zone inverts center/edge each time she changes element — read the ground glow. |
+| | Sanduruva | Same flip mechanic, different element; read the ground and reposition. |
+| | Cinduruva | Combined elemental mechanics; both flips now in play; mitigation on big casts. |
+| **The Tower of Babil** | Barnabas | Floor magnetizes you — move to the matching polarity zone or get flung; first-timers always eat this once. |
+| | Lugae | Add phase; tank holds the Magitek while DPS handles add priority. |
+| | Zandor | Final boss; heavy hits and arena AoEs; mitigation. |
+| **Vanaspati** | First boss | Environmental AoEs; dodge and face away. |
+| | Terminus Wrecker | Hits extremely hard; mitigation is not optional here; use everything. |
+| | Terminus Snatcher | Final boss; add waves; gather and cleave them; heavy raidwides in between. |
+| **Ktisis Hyperboreia** | First boss | Animation-based tells; watch the boss model, not the cast bar. |
+| | Lyssa | Freezes party members into statues; the boss's AoEs reflect off them — don't tank through frozen players. |
+| | Hermes | Final boss; heavy raidwides and movement; mitigation. |
+| **The Aitiascope** | Livia | Clone split; attack the real Livia (the one that's casting); the clone reflects damage. |
+| | Rhitahtyn | Magitek cannon patterns; dodge and face away. |
+| | Amon | Heavy AoEs and raidwides; mitigation; phase shifts. |
+| **The Dead Ends** | Peregrine | Heavy raidwides; mitigation on big casts. |
+| | Ma Famfrit | Breathtaker debuff: countdown drowning; get inside the visible air bubble before it expires or die. |
+| | Caustic Grebuloff | Final boss; heavy tankbusters and raidwides; mitigation. |
+| **Smileton** | Face | Puzzle mechanic; almost no conventional tanking — solve the gimmick. |
+| | Second boss | Puzzle; read the arena. |
+| | Lozatl's Burden | Final puzzle encounter; tanking is largely irrelevant here; just solve it. |
+| **The Stigma Dreamscape** | First boss | Robot add waves; gather and cleave. |
+| | Second boss | Mechanical phases; mitigation. |
+| | Final boss | Heaviest robot fight; adds and raidwides; mitigation. |
+| **Alzadaal's Legacy** | First boss | Standard pulls; watch boss mechanics. |
+| | Second boss | Heavier hits; mitigation. |
+| | Alzadaal | Heavy raidwides and AoEs; mitigation throughout. |
+| **The Fell Court of Troia** | First boss | Void arena tells; dodge and face away. |
+| | Second boss | Adds and void mechanics; collect them. |
+| | Beatrice | Final boss; heavy void raidwides; mitigation. |
+| **Lapis Manalis** | First boss | Snow/void mechanics; dodge. |
+| | Albion | Ice charge attacks; don't stand in the path; mitigation. |
+| | Galatea Magna | Final boss; heavy raidwides and adds; mitigation. |
+| **The Aetherfont** | Lyngbakr | Arena freezes in sections as the fight progresses; stay in the last unfrozen zone. |
+| | Second boss | Heavier arena transformation. |
+| | Octomammoth | Final boss; tentacle adds and arena AoEs; grab adds or they cleave the party. |
+| **The Lunar Subterrane** | First boss | Floor tells and heavy hits; mitigation. |
+| | Dark Elf | Creates a mirror clone; only the real boss takes damage — the clone reflects attacks back. |
+| | Damcyan Antlion | Final boss; arena shrinks as floor crumbles; stay on solid ground; heavy tankbusters. |
 
 ### EW dungeon gotchas
 
@@ -549,21 +729,47 @@ Currentness note: this section includes Dawntrail duties known through Patch 7.5
 
 ## DT dungeons
 
-| Duty | Tank notes |
-|---|---|
-| **Ihuykatumu** | First DT dungeon. Pull normally; watch river/environment mechanics. |
-| **Worqor Zormor** | Mountain dungeon. Boss tells and arena effects matter. |
-| **The Skydeep Cenote** | Water/cenote mechanics. Keep boss stable and avoid arena hazards. |
-| **Vanguard** | Tech/war dungeon. Trash can hit; use mitigation. |
-| **Origenics** | Facility dungeon. Watch boss tells and AoE patterns. |
-| **Alexandria** | Late 7.0 MSQ dungeon. Busy mechanics; tank cleanly and stay alive. |
-| **Tender Valley** | Optional 100. Boss gimmicks; pull normally but watch telegraphs. |
-| **The Strayborough Deadwalk** | Optional 100. Spooky mechanics; watch forced movement/status. |
-| **Yuweyawata Field Station** | Patch dungeon. Trash and bosses use modern layered mechanics. |
-| **The Underkeep** | Patch dungeon. Use mitigation on trash; watch boss arenas. |
-| **The Meso Terminal** | Patch dungeon. Role/party-list mechanics can matter; stay aware. |
-| **Mistwake** | Patch 7.4 dungeon. Modern expert-style mechanics; pull cleanly. |
-| **The Clyteum** | Patch 7.5 dungeon. Current expert-style dungeon; expect sharper mechanics and ilvl expectations. |
+| Duty | Boss | Tank note |
+|---|---|---|
+| **Ihuykatumu** | First boss | River/water mechanics; stay in safe zone; mitigation. |
+| | Second boss | Heavier arena mechanics; dodge and face away. |
+| | Final boss | Heavy hits and arena; mitigation throughout. |
+| **Worqor Zormor** | First boss | Mountain arena; dodge; face away. |
+| | Ryoqor Tertius | Icy floor sections cause sliding; don't be near an edge when ice activates — a slide sends you off. |
+| | Final boss | Heavy mountain boss; mitigation. |
+| **The Skydeep Cenote** | First boss | Water/cenote mechanics; dodge; face away. |
+| | Second boss | Heavier arena hazards; positioning. |
+| | Final boss | Heavy raidwides; mitigation. |
+| **Vanguard** | First boss | Magitek encounter; mitigation on big casts. |
+| | Vanguard Commander R8 | Add spawns need control; pick them up fast; heavy tankbusters. |
+| | Final boss | Heaviest Magitek fight; mitigation and adds. |
+| **Origenics** | First boss | Facility mechanics; dodge and face away. |
+| | The Deceiver | Clones itself; only the real boss takes damage — target the one that's visually distinct or still casting. |
+| | Final boss | Heavy raidwides; mitigation. |
+| **Alexandria** | First boss | Busy mechanics; mitigation. |
+| | Second boss | More layered; dodge and face away. |
+| | Final boss | Heavy MSQ-capstone boss; raidwides and tankbusters; mitigation throughout. |
+| **Tender Valley** | First boss | Gimmick boss; solve the mechanic; mitigation. |
+| | Second boss | Heavier gimmick; positioning. |
+| | Final boss | Heavy hits; mitigation. |
+| **The Strayborough Deadwalk** | First boss | Spooky mechanics; dodge. |
+| | Necromancer | Forced march: movement direction inverts — stop pressing keys before it resolves, then correct. |
+| | Final boss | Heavy raidwides; mitigation. |
+| **Yuweyawata Field Station** | First boss | Expert-tier; mechanics are fast; use Interject, keep boss still. |
+| | Second boss | Heavier layered mechanics. |
+| | Final boss | Heavy expert-tier fight; mitigation and cooldown management. |
+| **The Underkeep** | First boss | Expert-tier arena; positioning. |
+| | Second boss | Heavy mechanics; mitigation. |
+| | Final boss | Heavy hits and raidwides; mitigation throughout. |
+| **The Meso Terminal** | First boss | Party-list mechanics matter; stay aware. |
+| | Second boss | Heavier; mitigation. |
+| | Final boss | Heavy raidwides; mitigation. |
+| **Mistwake** | First boss | Modern expert mechanics; dodge and face away. |
+| | Second boss | Heavier; mitigation. |
+| | Final boss | Heavy expert-tier fight; mitigation and cooldown management. |
+| **The Clyteum** | First boss | Current expert-tier; sharper mechanics; mitigation. |
+| | Second boss | Heavier and faster; mitigation. |
+| | Final boss | Heaviest current dungeon boss; full cooldown usage expected. |
 
 ### DT dungeon gotchas
 
