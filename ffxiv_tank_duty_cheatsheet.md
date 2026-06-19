@@ -349,7 +349,388 @@ Coils are old 8-player raids. Many are not in normal roulette and can be weird u
 | **The Great Gubal Library** | Demon Tome | Scripted AoE patterns from a floating book; dodge the tile tells. |
 | | Evisiscarae | Don't step on the dark open-book tiles on the floor; navigate around them. |
 | | Final boss | Heavy hits; straightforward tank fight; mitigation. |
-| **The Aetherochemical Research Facility** | First boss | Magitek encounter; mitigation on big casts. |
+
+
+## The Aetherochemical Research Facility
+
+**Level:** 60
+**Type:** 4-player MSQ dungeon
+**Notes:** Post-6.3 version. Some old guides are wrong, especially for Ascian Prime / Universal Manipulation.
+
+### Trash
+
+Mostly standard pulls. Tanks face mobs away, use normal cooldowns, interrupt/stun if useful, do not overthink it. This dungeon is more boss/mechanic-heavy than trash-heavy.
+
+---
+
+## Boss 1: Regula van Hydrus
+
+Imperial legatus / magitek fight.
+
+### Main mechanics
+
+**Random stun + follow-up AoE**
+
+* A random player is stunned.
+* Boss follows up with an AoE on them.
+* Move away from the stunned player.
+* Heal/mitigate as needed.
+
+**Turrets**
+
+* Turrets spawn during the fight.
+* Kill them quickly.
+* If left alive too long, they self-destruct and cause raidwide damage.
+
+**Magitek Turret I**
+
+* Tethers/targets a player with a line attack.
+* Tank can stand between the turret and the tethered player to soak/help.
+
+**Magitek Turret II**
+
+* Targets players with circular AoEs.
+* Dodge.
+
+**Magitek Slug**
+
+* Boss dashes to walls and fires long line AoEs.
+* Dodge the lines.
+* Killing turrets helps stop the chaos.
+
+**Magitek Spread**
+
+* Large 270-degree frontal/conal AoE.
+* Safe spot is behind the boss.
+* Move behind him.
+
+### Tank notes
+
+* Face boss away from party.
+* Pick up/position around turrets as needed.
+* Use normal mitigation for heavy hits or if turrets are messy.
+* Do not eat Magitek Spread from the front.
+
+---
+
+## Boss 2: Harmachis
+
+Bioweapon that changes forms. The cast/announcement is **Weighing of the Heart**.
+
+### Sphinx Form
+
+**Riddle of the Sphinx**
+
+* Circular AoE.
+* Dodge.
+
+**Chthonic Hush**
+
+* Untelgraphed frontal cone on tank.
+* Inflicts Poison.
+* Face boss away.
+* Healer can Esuna poison if needed.
+
+### Anti-Cobra Form
+
+**Hood Swing**
+
+* Tankbuster.
+* Mitigate.
+
+### Anti-Naga Form
+
+**Petrifaction**
+
+* Gaze attack.
+* Look away from boss or get petrified.
+
+**Circle of Flames**
+
+* Multiple players get AoEs.
+* Spread out.
+
+### Anti-Machina Form
+
+**Ballistic Missile**
+
+* Enumeration marker.
+* Stack with the required number of players shown by the marker.
+
+**Gaseous Bomb**
+
+* Standard stack marker.
+* Party stacks.
+
+### Tank notes
+
+* Face boss away by default.
+* Mitigate Anti-Cobra / Hood Swing.
+* Look away for Petrifaction.
+* Stack when needed.
+* Spread when marked.
+
+---
+
+## Boss 3: Lahabrea & Igeyorhm
+
+Both Ascians are targetable. Fight ends when both are reduced to near-dead. If their HP gets too uneven, the higher-HP one can transfer HP to the lower-HP one, so keep them reasonably close if possible.
+
+### Lahabrea mechanics
+
+**Shadow Flare**
+
+* Raidwide damage.
+* Reprisal / party mitigation if useful.
+
+**Fire Sphere**
+
+* Summons Burning Stars.
+* They explode in circular AoEs.
+* Dodge.
+
+**Esoteric Fusion - Fire**
+
+* Tethered Burning Stars move toward each other.
+* They explode when they collide.
+* Watch the tethered fire orbs and move away from the collision/explosion area.
+
+**Dark Fire II**
+
+* Purple AoE markers on all players.
+* Spread.
+
+### Igeyorhm mechanics
+
+**Grip of Night**
+
+* Frontal cone AoE.
+* Tank should face away / party should avoid front.
+
+**Circle of Ice**
+
+* Frozen Stars create donut AoEs.
+* Stand on/near the Frozen Stars to be inside the donut safe zone.
+
+**Esoteric Fusion - Ice**
+
+* Tethered Frozen Stars move together.
+* The safe spot changes; stand under/near where the tethered Frozen Stars will detonate.
+
+**End of Days**
+
+* Line stack marker.
+* Party lines up between boss and targeted player.
+
+### Tank notes
+
+* Keep cleaves/cones away from party.
+* Maintain boss positioning so the party can dodge orb mechanics.
+* Reprisal raidwides if useful.
+* Do not panic if mechanics overlap; watch fire/ice orb positions.
+
+---
+
+## Final Boss: Ascian Prime
+
+Lahabrea and Igeyorhm merge. This is the real final boss.
+
+Failing mechanics gives Vulnerability Up, so repeated mistakes hurt.
+
+### Core mechanics
+
+**Shadow Flare**
+
+* Raidwide damage.
+* Reprisal / Shake It Off / healer mitigation if useful.
+
+**Height of Chaos**
+
+* Tankbuster.
+* Tank mitigates.
+* Keep it away from party if it has splash/cleave behavior.
+
+**Ancient Eruption**
+
+* AoE circles appear under players.
+* Move out.
+
+---
+
+## Dualstar / Fusion Prime
+
+Ascian Prime summons combinations of Burning Stars and Frozen Stars, then makes them collide.
+
+The important part is figuring out **which collision resolves first**.
+
+### If Frozen Stars collide first
+
+* Ice creates donut AoEs.
+* Start near/under the ice safe area.
+* Once ice resolves, move away from the fire explosion zones.
+
+Simple callout:
+**Ice first: start in, then run out.**
+
+### If Burning Stars collide first
+
+* Fire creates circular AoE explosions.
+* Start away from the fire collision/explosion area.
+* After fire resolves, move into/under the ice safe area before ice detonates.
+
+Simple callout:
+**Fire first: start out, then run in.**
+
+### Notes
+
+* Sprint helps.
+* Do not wait for the animation to fully finish; once the orange telegraph disappears, that ground is generally safe to move through.
+* Getting clipped by multiple AoEs can kill non-tanks.
+
+---
+
+## Universal Manipulation
+
+Post-6.3 version: **no void portals**.
+
+Universal Manipulation deals raidwide damage and applies several timed debuffs. Resolve them in order.
+
+### Debuffs / mechanics
+
+**Bleeding**
+
+* Damage over time.
+* Healer heals through it.
+
+**Ancient Circle**
+
+* Creates large donut AoEs around players when it expires.
+* Stack in the center so the safe area overlaps cleanly.
+
+**Dark Whispers**
+
+* Purple AoE circles on players when it expires.
+* Spread out.
+
+**Ancient Frost**
+
+* Stack marker when it expires.
+* Party stacks.
+
+**Burning Chains**
+
+* Players are chained in pairs when it expires.
+* Chained players run away from each other to break chains.
+
+### Practical callout
+
+Universal Manipulation sequence:
+
+1. Heal raidwide / bleed.
+2. Stack center for donuts.
+3. Spread for personal AoEs.
+4. Stack for stack marker.
+5. Break chains.
+
+---
+
+## Entropic Flame
+
+* Line stack marker.
+* Stack in the line / share damage.
+
+---
+
+## Arcane Revelation
+
+Ascian Prime becomes untargetable and summons a large **Arcane Sphere**. The boss begins filling an **Ascian Prime's Power** gauge.
+
+### Main objective
+
+**Kill the Arcane Sphere before the gauge reaches 100.**
+
+If the gauge reaches 100, the follow-up attack wipes the party.
+
+### During this phase
+
+Shades of Lahabrea and Igeyorhm appear and use mechanics:
+
+**Chilling Cross + Dark Fire II**
+
+* Cross-shaped line AoEs from center.
+* Purple AoEs on players.
+* Dodge lines and spread.
+
+**Dark Blizzard II + Dark Fire II**
+
+* Frozen line AoEs plus purple player AoEs.
+* Dodge and spread.
+
+**Double Shadow Flare**
+
+* Both shades cast raidwide damage.
+* Healers heal.
+* Party mitigation helps.
+
+**Annihilation**
+
+* Heavy raidwide damage based on how full the boss gauge got.
+* If gauge reached 100, it wipes.
+* Lower gauge = easier survival.
+
+### Tank notes
+
+* Nothing fancy: help burn the sphere.
+* Use party mitigation if available before heavy raidwide damage.
+* Save panic tools only if the phase gets ugly.
+
+---
+
+## Super-short tank version
+
+### Regula
+
+* Kill turrets.
+* Dodge lines/circles.
+* Hide behind boss for Magitek Spread.
+* Mitigate heavy hits.
+
+### Harmachis
+
+* Form-shift boss.
+* Face cones away.
+* Mitigate Cobra tankbuster.
+* Look away from Petrifaction.
+* Stack/spread markers normally.
+
+### Lahabrea & Igeyorhm
+
+* Keep both HP reasonably close.
+* Face Igeyorhm cone away.
+* Dodge fire/ice orb patterns.
+* Stack for End of Days.
+* Spread for Dark Fire II.
+* Reprisal Shadow Flare if useful.
+
+### Ascian Prime
+
+* Height of Chaos = tankbuster.
+* Shadow Flare = raidwide.
+* Dualstar = fire/ice collision puzzle:
+
+  * Ice first: start in, then run out.
+  * Fire first: start out, then run in.
+* Universal Manipulation = no portals:
+
+  * heal bleed
+  * stack center for donuts
+  * spread AoEs
+  * stack marker
+  * break chains
+* Arcane Revelation = kill Arcane Sphere before gauge hits 100.
+
+
+
 | | Igeyorhm | Heavy AoEs; mitigation; phase shifts change the attack pattern. |
 | | Lahabrea + Igeyorhm | Combined encounter; face their cleaves away; heavy raidwides; invuln if dual-cast tankbuster stacks badly. |
 | **Neverreap** | Canu Vali | Bird; dive attacks; dodge; standard. |
