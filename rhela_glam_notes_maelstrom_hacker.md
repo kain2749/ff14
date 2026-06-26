@@ -144,7 +144,7 @@ More like:
 |---|---|---|
 | Facewear | Scaevan Headgear | Cyber eye / scouter piece. Permanent unlock. Buy from Market Board if cheap. |
 | Body | Plain Hooded Tunic / Casual Jacket | Hoodie is the goal. Casual Jacket also works if hoodie is unavailable/too expensive. |
-| Hands | Emperor's New Gloves / simple dark gloves | Do not overcomplicate it. |
+| Hands | Emperor's New Gloves / simple dark gloves / fingerless gloves | Do not overcomplicate it. |
 | Legs | Stonewashed Twill Trousers / other jeans | Keep the Rhela streetwear identity. |
 | Feet | Calfskin Rider's Shoes / sneakers / Strife Boots | Casual footwear. Avoid heavy armor boots unless intentionally going darker. |
 | Weapon | Augmented Scaevan Magitek Axe | Best direct match for Scaevan Headgear. Cyber/magitek axe. |
