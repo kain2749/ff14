@@ -109,6 +109,7 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 
 - Core look: casual streetwear Warrior, visible accessories, practical shoes/boots, normal/tool-looking axes preferred.
 - Strong active target: **False Nails**.
+- Chocobo glam target: **Warfarer's Barding**; grab it as soon as it becomes available.
 - Signature minion vibe: **Wind-up Estinien**.
 - Future idea: Machinist street-hacker look.
 
