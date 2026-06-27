@@ -24,7 +24,6 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 - Current expansion/state: **Stormblood, post-Doma Castle**.
 - Current active zone/arc: **The Fringes / Gyr Abania**.
 - Current key gate: **The Silence of the Gods**.
-- Current gil: **north of 300k**.
 - Platform: **Linux / Steam / Proton**.
 
 ---
@@ -101,9 +100,8 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 
 ### Other side systems
 
-- Grand Company seals: Materiel Containers are lottery; Glamour Prisms are more predictable if market supports it.
 - Wondrous Tails: latest stable state is done for the week unless reset/user says otherwise.
-- PvP future glam target: **Model C-1 Tactical Hood**, **1,500 Trophy Crystals**. User has Wolf Marks, not Trophy Crystals.
+- PvP future glam target: **Model C-1 Tactical Hood** via Trophy Crystals.
 
 ---
 
