@@ -2,7 +2,7 @@
 
 Last updated: 2026-06-27
 
-Purpose: compact status file for starting a new FFXIV chat. Newer chat facts override this file.
+Purpose: compact current-state file for starting a new FFXIV chat. Newer chat facts override this file.
 
 ---
 
@@ -32,7 +32,7 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 
 1. Continue MSQ through **The Silence of the Gods**.
 2. Finish The Fringes flying.
-3. Unlock Ananta dailies toward **False Nails**.
+3. Unlock Ananta dailies and get **False Nails**.
 4. Keep retainers deployed.
 5. Use Mining/maps/leves only as side-breaks.
 6. Use RDM for overworld killing/Sirclucks if desired.
@@ -52,22 +52,16 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 ### WAR / gear
 
 - WAR ilvl **410** is plenty for current Stormblood MSQ.
-- Recent cheap level-80 axe upgrade was mechanically fine but visually disliked.
 - Possible future casual refresh around WAR 83-ish; check level 82 tank gear first if that comes up.
 
-### RDM / alt jobs
+### Alt jobs / Sirclucks
 
-- **RDM is unlocked** and is the current practical alt for level-50-ish overworld/Sirclucks work.
+- **RDM is unlocked** and is the practical alt for level-50-ish overworld/Sirclucks work.
 - WAR remains the MSQ comfort job.
 - Reaper later = backup high-level XP bucket.
-- Ninja/Rogue, Dark Knight, Machinist are side/future projects, not current priorities.
+- Ninja/Rogue, Dark Knight, and Machinist are side/future projects, not current priorities.
+- Sirclucks: healer-first chocobo; Curiel Root favorite-food setup is relevant; XP is opportunistic unless deliberately grinding.
 - Detailed RDM learning notes belong in `rhela_red_mage_training.md`, not this file.
-
-### Sirclucks
-
-- Chocobo: **Sirclucks**.
-- Healer-first build; Curiel Root favorite-food setup is relevant.
-- XP is opportunistic unless user deliberately chooses to grind.
 
 ---
 
@@ -76,20 +70,13 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 ### Mining / maps
 
 - Miner around **56**.
-- Leather Map pricing data:
-  - **35k** insta-sold.
-  - **40k** failed overnight.
-  - **36k** was being tested.
+- Leather Map pricing data: **35k** insta-sold, **40k** failed overnight, **36k** was being tested.
 - Active-loop policy: use **35k** if trying to sell before the next 18h map timer; test higher only when willing to wait.
 
 ### Leves
 
 - Recent allowance state: **88**, with a +3 tick coming soon at the time discussed.
-- Policy:
-  - `<80`: ignore
-  - `80–89`: optional Miner burn
-  - `90–99`: burn 10–20 soon
-  - `100`: capped/wasting regen; spend immediately
+- Policy: `<80` ignore; `80–89` optional Miner burn; `90–99` burn 10–20 soon; `100` capped/wasting regen.
 - Miner targets: 60 short, 65 medium, 70 only if intentionally pushing.
 
 ### Retainers
@@ -109,17 +96,15 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 ### Other side systems
 
 - Wondrous Tails: latest stable state is done for the week unless reset/user says otherwise.
-- PvP future glam target: **Model C-1 Tactical Hood** via Trophy Crystals.
 
 ---
 
-## Glamour status
+## Glamour / appearance
 
-- Core look: casual streetwear Warrior, visible accessories, practical shoes/boots, normal/tool-looking axes preferred.
-- Strong active target: **False Nails**.
+- Eorzea Collection glams: https://ffxiv.eorzeacollection.com/creator/149944
+- Active acquisition target: **False Nails**.
 - Chocobo glam target: **Warfarer's Barding**; grab it as soon as it becomes available.
-- Signature minion vibe: **Wind-up Estinien**.
-- Future idea: Machinist street-hacker look.
+- PvP future glam target: **Model C-1 Tactical Hood** via Trophy Crystals.
 
 ---
 
