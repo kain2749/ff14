@@ -34,7 +34,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 2. Continue Stormblood MSQ after **Emanation**.
 3. Keep retainers deployed.
 4. Use Mining/maps/leves only as side-breaks.
-5. Use RDM for level-appropriate overworld kills when deliberately leveling Sirclucks.
+5. Use RDM for Heavensward-or-newer overworld kills when deliberately leveling Sirclucks.
 
 ---
 
@@ -51,11 +51,11 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ### Alt jobs / Sirclucks
 
-- **RDM is unlocked** and is mainly a Sirclucks leveling tool: use it for level-50+ overworld kills close enough in level that the chocobo gets real XP.
+- **RDM is unlocked** and is mainly a Sirclucks leveling tool: use it for Heavensward-or-newer overworld mobs/content where chocobo kill XP still matters.
 - WAR remains the MSQ comfort job.
 - Reaper later = backup high-level XP bucket.
 - Ninja/Rogue, Dark Knight, and Machinist are side/future projects, not current priorities.
-- Sirclucks: healer-first chocobo; after rank 10, level-1 trash no longer matters, so XP needs level-appropriate kills, stable training, or other deliberate XP sources; still opportunistic unless deliberately grinding.
+- Sirclucks: healer-first chocobo; after rank 10, level-1 ARR trash no longer matters, so XP needs Heavensward-or-newer kills, stable training, or other deliberate XP sources; still opportunistic unless deliberately grinding.
 - Detailed RDM learning notes belong in `rhela_red_mage_training.md`, not this file.
 
 ---
@@ -122,4 +122,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 420 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue Stormblood MSQ, sell maps for side gil, keep retainers out, and use RDM for level-appropriate Sirclucks XP when intentionally grinding.
+Rhela is an overleveled ilvl 420 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue Stormblood MSQ, sell maps for side gil, keep retainers out, and use RDM for Heavensward-or-newer Sirclucks XP when intentionally grinding.
