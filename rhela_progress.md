@@ -99,7 +99,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ---
 
-## Glamour / appearance
+## Glamour targets
 
 - Eorzea Collection glams: https://ffxiv.eorzeacollection.com/creator/149944
 - Active acquisition target: **False Nails**.
