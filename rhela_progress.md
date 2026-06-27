@@ -98,16 +98,13 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 - Miner retainer around **6**; keep deployed.
 - Do not level Miner solely for the retainer right now.
 
-### Reset times — Eastern time
+### Reset times — user local time
 
-FFXIV reset anchors use UTC/GMT, so the local clock shifts with daylight saving time.
-
-- Daily reset: **11 AM EDT / 10 AM EST**.
-- Weekly reset: **Tuesday 4 AM EDT / 3 AM EST**.
-- Leve allowances: **8 AM and 8 PM EDT / 7 AM and 7 PM EST**.
-- GC supply/provision turn-ins: **4 PM EDT / 3 PM EST**.
+- Daily reset: **11 AM**.
+- Weekly reset: **Tuesday 4 AM**.
+- Leve allowances: **8 AM and 8 PM**.
+- GC supply/provision turn-ins: **4 PM**.
 - Treasure maps: personal **18-hour cooldown**, not a fixed daily reset.
-- Static weekly downtime: **none**. Maintenance is ad hoc and announced separately.
 
 ### Other side systems
 
