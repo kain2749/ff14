@@ -23,16 +23,16 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Grand Company: **Maelstrom Captain**.
 - Current expansion/state: **Stormblood, post-Emanation**.
 - Current active zone/arc: **The Fringes / Gyr Abania**.
-- Current key gate: **Ananta dailies / Brooding Broodmother path**.
+- Current key gate: **next Ananta daily reset for False Nails**.
 - Platform: **Linux / Steam / Proton**.
 
 ---
 
 ## Current priorities
 
-1. Continue MSQ/Fringes follow-up quests after **Emanation**.
-2. Finish The Fringes flying.
-3. Unlock Ananta dailies and get **False Nails**.
+1. After the next daily reset, do **3 Ananta rep quests**, then buy **False Nails**.
+2. Continue MSQ/Fringes follow-up quests after **Emanation**.
+3. Finish The Fringes flying.
 4. Keep retainers deployed.
 5. Use Mining/maps/leves only as side-breaks.
 6. Use RDM for overworld killing/Sirclucks if desired.
@@ -41,13 +41,9 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## Active gates / reminders
 
-### The Fringes / Ananta / False Nails
+### Ananta / False Nails
 
-- **Emanation is cleared**.
-- User is close to the Ananta unlock path.
-- The useful sidequest chain leads toward **Brooding Broodmother**.
-- **False Nails** come from Ananta, not marketboard/crafting/mining/retainers.
-- False Nails cost **6 Ananta Dreamstaves**; after Ananta dailies unlock, this should be about **two resets max**.
+- Ananta dailies are unlocked; do **3 more Ananta rep quests after the next 11 AM daily reset**, then buy **False Nails**.
 
 ### WAR / gear
 
@@ -123,4 +119,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 410 WAR in Stormblood after Emanation; push the Fringes follow-up/Ananta unlock path, finish Fringes flying, unlock Ananta for **False Nails**, sell maps for side gil, burn Miner leves near 90, keep retainers out, and use RDM/Sirclucks for overworld side work.
+Rhela is an overleveled ilvl 410 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue the Fringes/MSQ path, finish Fringes flying, sell maps for side gil, keep retainers out, and use RDM/Sirclucks for overworld side work.
