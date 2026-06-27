@@ -95,6 +95,14 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ---
 
+## Audio preset — stream + MSQ
+
+- Temporary stream preset: Master 80–100; BGM 25–40; Sound Effects 35–50; Voice 100; Ambient 20–35; System 40–60; Performance 0–20.
+- Browser/stream volume: about 25–40%; manually mute/lower stream during voiced scenes if needed.
+- Reset to default after the stream if desired; this preset is for recovering the stream/MSQ balance later.
+
+---
+
 ## Glamour targets
 
 - Eorzea Collection glams: https://ffxiv.eorzeacollection.com/creator/149944
