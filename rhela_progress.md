@@ -88,13 +88,10 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 - Daily reset: **11 AM**.
 - Weekly reset: **Tuesday 4 AM**.
+- Wondrous Tails pickup: **Tuesday 4 AM**.
 - Leve allowances: **8 AM and 8 PM**.
 - GC supply/provision turn-ins: **4 PM**.
 - Treasure maps: personal **18-hour cooldown**, not a fixed daily reset.
-
-### Other side systems
-
-- Wondrous Tails: latest stable state is done for the week unless reset/user says otherwise.
 
 ---
 
