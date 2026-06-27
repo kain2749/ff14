@@ -109,6 +109,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Repo: `kain2749/ff14`.
 - This file is the main status handoff.
 - ChatGPT can update it.
+- Obvious current-state cleanup is fine; propose non-obvious changes before editing this file.
 
 ---
 
