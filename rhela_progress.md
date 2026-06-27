@@ -20,7 +20,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 ## Current state
 
 - Character: **Rhela Vahl**, female Miqo'te.
-- Main: **Warrior**, level **80+**, ilvl **410**.
+- Main: **Warrior**, level **80+**, ilvl **420**.
 - Grand Company: **Maelstrom Captain**.
 - Current expansion/state: **Stormblood, post-Emanation**.
 - Current key gate: **next Ananta daily reset for False Nails**.
@@ -46,7 +46,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ### WAR / gear
 
-- WAR ilvl **410** is plenty for current Stormblood MSQ.
+- WAR ilvl **420** is plenty for current Stormblood MSQ.
 - Possible future casual refresh around WAR 83-ish; check level 82 tank gear first if that comes up.
 
 ### Alt jobs / Sirclucks
@@ -122,4 +122,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 410 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue Stormblood MSQ, sell maps for side gil, keep retainers out, and use RDM/Sirclucks for overworld side work.
+Rhela is an overleveled ilvl 420 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue Stormblood MSQ, sell maps for side gil, keep retainers out, and use RDM/Sirclucks for overworld side work.
