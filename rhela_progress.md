@@ -34,7 +34,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 2. Continue Stormblood MSQ after **Emanation**.
 3. Keep retainers deployed.
 4. Use Mining/maps/leves only as side-breaks.
-5. Use RDM for Heavensward-or-newer overworld kills when deliberately leveling Sirclucks.
+5. Use RDM for Heavensward-or-newer overworld kills when deliberately leveling Sirclucks; SAM is available but less clean for this job.
 
 ---
 
@@ -52,6 +52,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 ### Alt jobs / Sirclucks
 
 - **RDM is unlocked** and is mainly a Sirclucks leveling tool: use it for Heavensward-or-newer overworld mobs/content where chocobo kill XP still matters.
+- **SAM is also geared/available** for Sirclucks XP, but it looks more complicated and feels closer to the melee upkeep already happening on WAR; use it only if it feels good, not as the default recommendation.
 - WAR remains the MSQ comfort job.
 - Reaper later = backup high-level XP bucket.
 - Ninja/Rogue, Dark Knight, and Machinist are side/future projects, not current priorities.
@@ -122,4 +123,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 420 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue Stormblood MSQ, sell maps for side gil, keep retainers out, and use RDM for Heavensward-or-newer Sirclucks XP when intentionally grinding.
+Rhela is an overleveled ilvl 420 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue Stormblood MSQ, sell maps for side gil, keep retainers out, and use RDM for Heavensward-or-newer Sirclucks XP when intentionally grinding, with SAM as an available but less-clean backup.
