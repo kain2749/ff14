@@ -12,6 +12,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Do not spoil past the current MSQ milestone unless asked.
 - Avoid generic daily checklist advice.
 - Do not recommend more WAR gear unless there is a real wall or a very cheap comfort refresh.
+- Keep this file small: ask before adding non-obvious details, and when adding something, prefer replacing/removing stale notes over growing it.
 - Treat older generated duty guides in this repo as untrusted unless verified.
 
 ---
@@ -114,7 +115,6 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 - Repo: `kain2749/ff14`.
 - This file is the main status handoff.
-- ChatGPT can update it.
 - Avoid tracking fast-stale zone/flying progress unless it is actively blocking a current objective.
 - Obvious current-state cleanup is fine; propose non-obvious changes before editing this file.
 
