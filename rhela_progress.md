@@ -20,7 +20,7 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 
 - Character: **Rhela Vahl**, female Miqo'te.
 - Main: **Warrior**, level **80+**, ilvl **410**.
-- Grand Company: **Maelstrom**; assume **Captain is done**.
+- Grand Company: **Maelstrom Captain**.
 - Current expansion/state: **Stormblood, post-Doma Castle**.
 - Current active zone/arc: **The Fringes / Gyr Abania**.
 - Current key gate: **The Silence of the Gods**.
@@ -99,9 +99,8 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 - Miner retainer around **6**; keep deployed.
 - Do not level Miner solely for the retainer right now.
 
-### Squadron / GC / WT / PvP
+### GC / WT / PvP
 
-- Squadron progression is parked; useful rewards are Priority Aetheryte Pass, Gold Saucer VIP Card, and XP manuals.
 - GC seals: Materiel Containers are lottery; Glamour Prisms are more predictable if market supports it.
 - Latest stable Wondrous Tails state: done for the week unless reset/user says otherwise.
 - PvP future glam target: **Model C-1 Tactical Hood**, **1,500 Trophy Crystals**. User has Wolf Marks, not Trophy Crystals.
@@ -121,8 +120,7 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 
 - Repo: `kain2749/ff14`.
 - This file is the main status handoff.
-- ChatGPT can now update it.
-- `chatgpt_write_probe.md` may still exist because delete was blocked by tool safety checks; user can remove it manually.
+- ChatGPT can update it.
 
 ---
 
