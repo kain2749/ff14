@@ -6,13 +6,13 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ---
 
-## Chat rules
+## Rules
 
-- Keep advice blunt, practical, spoiler-light, and MSQ-first.
+- Blunt, practical, spoiler-light, MSQ-first.
 - Do not spoil past the current MSQ milestone unless asked.
 - Avoid generic daily checklist advice.
-- Do not recommend more WAR gear unless there is a real wall or a very cheap comfort refresh.
-- Keep this file small: ask before adding non-obvious details, and when adding something, prefer replacing/removing stale notes over growing it.
+- Do not recommend WAR gear unless there is a real wall or a very cheap comfort refresh.
+- Keep this file lean. Put job-specific notes in separate files.
 - Treat older generated duty guides in this repo as untrusted unless verified.
 
 ---
@@ -20,107 +20,62 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 ## Current state
 
 - Character: **Rhela Vahl**, female Miqo'te.
-- Main: **Warrior**, level **80+**, ilvl **420**.
+- Main: **WAR 80+**, ilvl **420**.
 - Grand Company: **Maelstrom Captain**.
 - Current expansion/state: **Stormblood, post-Emanation**.
-- Current key gate: **next Ananta daily reset for False Nails**.
+- Current gate: **False Nails after next Ananta daily reset**.
 - Platform: **Linux / Steam / Proton**.
 
 ---
 
-## Current priorities
+## Current priority
 
-1. After the next daily reset, do **3 Ananta rep quests**, then buy **False Nails** with [Ananta Dreamstaves](https://ffxiv.consolegameswiki.com/wiki/Ananta_Dreamstaff).
+1. After next **11 AM daily reset**, do **3 Ananta rep quests**, then buy **False Nails**.
 2. Continue Stormblood MSQ after **Emanation**.
 3. Keep retainers deployed.
-4. Use Mining/maps/leves only as side-breaks.
-5. Use RDM for Heavensward-or-newer overworld kills when deliberately leveling Sirclucks; SAM is available but less clean for this job.
+4. Use Mining/maps/leves only as breaks.
+5. Sirclucks XP is optional side work, not the main lane.
 
 ---
 
-## Active gates / reminders
-
-### Ananta / False Nails
-
-- Ananta dailies are unlocked; do **3 more Ananta rep quests after the next 11 AM daily reset**, then buy **False Nails** with [Ananta Dreamstaves](https://ffxiv.consolegameswiki.com/wiki/Ananta_Dreamstaff).
+## Active notes
 
 ### WAR / gear
 
 - WAR ilvl **420** is plenty for current Stormblood MSQ.
-- Possible future casual refresh around WAR 83-ish; check level 82 tank gear first if that comes up.
+- Possible cheap comfort refresh later around WAR 83-ish; check level 82 tank gear only if it comes up.
 
-### Alt jobs / Sirclucks
+### Sirclucks / alt jobs
 
-- **RDM is unlocked** and is mainly a Sirclucks leveling tool: use it for Heavensward-or-newer overworld mobs/content where chocobo kill XP still matters.
-- **SAM is also geared/available** for Sirclucks XP, but it looks more complicated and feels closer to the melee upkeep already happening on WAR; use it only if it feels good, not as the default recommendation.
-- WAR remains the MSQ comfort job.
-- Reaper later = backup high-level XP bucket.
-- Ninja/Rogue, Dark Knight, and Machinist are side/future projects, not current priorities.
-- Sirclucks: healer-first chocobo; after rank 10, level-1 ARR trash no longer matters, so XP needs Heavensward-or-newer kills, stable training, or other deliberate XP sources; still opportunistic unless deliberately grinding.
-- Detailed RDM learning notes belong in `rhela_red_mage_training.md`, not this file.
+- Sirclucks is healer-first; after rank 10, level-1 ARR trash no longer matters for XP.
+- For deliberate Sirclucks XP, use **Heavensward-or-newer** overworld kills/content.
+- **RDM** is the clean default bird-XP tool.
+- **SAM** is geared/available, but less clean; see `rhela_samurai_training.md`.
+- Detailed RDM notes belong in `rhela_red_mage_training.md`.
 
----
+### Side systems
 
-## Economy / side systems
+- Miner around **56**; useful for maps/gil/breaks, not urgent.
+- Retainers: WAR/combat around **50**, Miner around **6**; keep both deployed.
+- Treasure maps use a personal **18-hour cooldown**.
+- Wondrous Tails / roulettes / leves are opportunistic, not homework.
 
-### Mining / maps
+### Glamour
 
-- Miner around **56**.
-- Leather Map pricing data: **35k** insta-sold, **40k** failed overnight, **36k** was being tested.
-- Active-loop policy: use **35k** if trying to sell before the next 18h map timer; test higher only when willing to wait.
-
-### Ananta gil option
-
-- After **False Nails**, consider continuing Ananta dailies if **Stuffed Ananta** still has good market value and sale history.
-
-### Leves
-
-- Policy: `<80` ignore; `80–89` optional Miner burn; `90–99` burn 10–20 soon; `100` capped/wasting regen.
-- Miner targets: 60 short, 65 medium, 70 only if intentionally pushing.
-
-### Retainers
-
-- Combat/WAR retainer around **50**; keep deployed.
-- Miner retainer around **6**; keep deployed.
-- Do not level Miner solely for the retainer right now.
-
-### Reset times — user local time
-
-- Daily reset: **11 AM**.
-- Weekly reset: **Tuesday 4 AM**.
-- Wondrous Tails pickup: **Tuesday 4 AM**.
-- Leve allowances: **8 AM and 8 PM**.
-- GC supply/provision turn-ins: **4 PM**.
-- Treasure maps: personal **18-hour cooldown**, not a fixed daily reset.
-
----
-
-## Audio preset — stream + MSQ
-
-- Temporary stream preset: Master 80–100; BGM 25–40; Sound Effects 35–50; Voice 100; Ambient 20–35; System 40–60; Performance 0–20.
-- Browser/stream volume: about 25–40%; manually mute/lower stream during voiced scenes if needed.
-- Reset to default after the stream if desired; this preset is for recovering the stream/MSQ balance later.
-
----
-
-## Glamour targets
-
-- Eorzea Collection glams: https://ffxiv.eorzeacollection.com/creator/149944
-- Active acquisition target: **False Nails**.
-- Chocobo glam target: **Warfarer's Barding**; grab it as soon as it becomes available.
-- PvP future glam target: **Model C-1 Tactical Hood** via Trophy Crystals.
+- Active target: **False Nails**.
+- Future targets: **Warfarer's Barding**, **Model C-1 Tactical Hood**.
+- Eorzea Collection: https://ffxiv.eorzeacollection.com/creator/149944
 
 ---
 
 ## Repo note
 
 - Repo: `kain2749/ff14`.
-- This file is the main status handoff.
-- Avoid tracking fast-stale zone/flying progress unless it is actively blocking a current objective.
-- Obvious current-state cleanup is fine; propose non-obvious changes before editing this file.
+- This file is the main handoff only.
+- Prefer replacing stale notes over adding new ones.
 
 ---
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 420 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue Stormblood MSQ, sell maps for side gil, keep retainers out, and use RDM for Heavensward-or-newer Sirclucks XP when intentionally grinding, with SAM as an available but less-clean backup.
+Rhela is an overleveled ilvl 420 WAR in Stormblood after Emanation; after reset, do **3 Ananta quests** and buy **False Nails**, then continue MSQ. Keep retainers out, use side systems only as breaks, and use RDM/SAM notes only when deliberately grinding Sirclucks XP.
