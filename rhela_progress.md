@@ -30,7 +30,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## Current priorities
 
-1. After the next daily reset, do **3 Ananta rep quests**, then buy **False Nails**.
+1. After the next daily reset, do **3 Ananta rep quests**, then buy **False Nails** with [Ananta Dreamstaves](https://ffxiv.consolegameswiki.com/wiki/Ananta_Dreamstaff).
 2. Continue MSQ/Fringes follow-up quests after **Emanation**.
 3. Finish The Fringes flying.
 4. Keep retainers deployed.
@@ -43,7 +43,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ### Ananta / False Nails
 
-- Ananta dailies are unlocked; do **3 more Ananta rep quests after the next 11 AM daily reset**, then buy **False Nails**.
+- Ananta dailies are unlocked; do **3 more Ananta rep quests after the next 11 AM daily reset**, then buy **False Nails** with [Ananta Dreamstaves](https://ffxiv.consolegameswiki.com/wiki/Ananta_Dreamstaff).
 
 ### WAR / gear
 
