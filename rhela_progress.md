@@ -99,10 +99,10 @@ Purpose: compact status file for starting a new FFXIV chat. Newer chat facts ove
 - Miner retainer around **6**; keep deployed.
 - Do not level Miner solely for the retainer right now.
 
-### GC / WT / PvP
+### Other side systems
 
-- GC seals: Materiel Containers are lottery; Glamour Prisms are more predictable if market supports it.
-- Latest stable Wondrous Tails state: done for the week unless reset/user says otherwise.
+- Grand Company seals: Materiel Containers are lottery; Glamour Prisms are more predictable if market supports it.
+- Wondrous Tails: latest stable state is done for the week unless reset/user says otherwise.
 - PvP future glam target: **Model C-1 Tactical Hood**, **1,500 Trophy Crystals**. User has Wolf Marks, not Trophy Crystals.
 
 ---
