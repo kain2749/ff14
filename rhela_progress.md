@@ -56,7 +56,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - WAR remains the MSQ comfort job.
 - Reaper later = backup high-level XP bucket.
 - Ninja/Rogue, Dark Knight, and Machinist are side/future projects, not current priorities.
-- Sirclucks: healer-first chocobo; Curiel Root favorite-food setup is relevant; XP is opportunistic unless deliberately grinding.
+- Sirclucks: healer-first chocobo; XP is opportunistic unless deliberately grinding.
 - Detailed RDM learning notes belong in `rhela_red_mage_training.md`, not this file.
 
 ---
