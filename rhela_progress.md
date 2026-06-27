@@ -22,7 +22,6 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Main: **Warrior**, level **80+**, ilvl **410**.
 - Grand Company: **Maelstrom Captain**.
 - Current expansion/state: **Stormblood, post-Emanation**.
-- Current active zone/arc: **The Fringes / Gyr Abania**.
 - Current key gate: **next Ananta daily reset for False Nails**.
 - Platform: **Linux / Steam / Proton**.
 
@@ -31,11 +30,10 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 ## Current priorities
 
 1. After the next daily reset, do **3 Ananta rep quests**, then buy **False Nails** with [Ananta Dreamstaves](https://ffxiv.consolegameswiki.com/wiki/Ananta_Dreamstaff).
-2. Continue MSQ/Fringes follow-up quests after **Emanation**.
-3. Finish The Fringes flying.
-4. Keep retainers deployed.
-5. Use Mining/maps/leves only as side-breaks.
-6. Use RDM for overworld killing/Sirclucks if desired.
+2. Continue Stormblood MSQ after **Emanation**.
+3. Keep retainers deployed.
+4. Use Mining/maps/leves only as side-breaks.
+5. Use RDM for overworld killing/Sirclucks if desired.
 
 ---
 
@@ -117,10 +115,11 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Repo: `kain2749/ff14`.
 - This file is the main status handoff.
 - ChatGPT can update it.
+- Avoid tracking fast-stale zone/flying progress unless it is actively blocking a current objective.
 - Obvious current-state cleanup is fine; propose non-obvious changes before editing this file.
 
 ---
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 410 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue the Fringes/MSQ path, finish Fringes flying, sell maps for side gil, keep retainers out, and use RDM/Sirclucks for overworld side work.
+Rhela is an overleveled ilvl 410 WAR in Stormblood after Emanation; after the next reset, do **3 Ananta rep quests** and buy **False Nails**, then continue Stormblood MSQ, sell maps for side gil, keep retainers out, and use RDM/Sirclucks for overworld side work.
