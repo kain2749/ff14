@@ -69,6 +69,10 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Leather Map pricing data: **35k** insta-sold, **40k** failed overnight, **36k** was being tested.
 - Active-loop policy: use **35k** if trying to sell before the next 18h map timer; test higher only when willing to wait.
 
+### Ananta gil option
+
+- After **False Nails**, consider continuing Ananta dailies if **Stuffed Ananta** still has good market value and sale history.
+
 ### Leves
 
 - Policy: `<80` ignore; `80–89` optional Miner burn; `90–99` burn 10–20 soon; `100` capped/wasting regen.
