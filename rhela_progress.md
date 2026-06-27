@@ -55,7 +55,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - WAR remains the MSQ comfort job.
 - Reaper later = backup high-level XP bucket.
 - Ninja/Rogue, Dark Knight, and Machinist are side/future projects, not current priorities.
-- Sirclucks: healer-first chocobo; XP is opportunistic unless deliberately grinding.
+- Sirclucks: healer-first chocobo; XP is opportunistic unless deliberately grinding; after the level-83 gear check, optionally round Gysahl Greens up to 999.
 - Detailed RDM learning notes belong in `rhela_red_mage_training.md`, not this file.
 
 ---
