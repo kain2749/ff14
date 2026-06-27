@@ -75,7 +75,6 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ### Leves
 
-- Recent allowance state: **88**, with a +3 tick coming soon at the time discussed.
 - Policy: `<80` ignore; `80–89` optional Miner burn; `90–99` burn 10–20 soon; `100` capped/wasting regen.
 - Miner targets: 60 short, 65 medium, 70 only if intentionally pushing.
 
