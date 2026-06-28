@@ -1,6 +1,6 @@
 # Rhela Vahl Status Handoff
 
-Last updated: 2026-06-27
+Last updated: 2026-06-28
 
 Purpose: compact current-state file for starting a new FFXIV chat. Newer chat facts override this file.
 
@@ -20,9 +20,10 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 ## Current state
 
 - Character: **Rhela Vahl**, female Miqo'te.
+- Home World / Data Center: **Zalera / Crystal**.
 - Main: **WAR 80+**, ilvl **442**.
 - Grand Company: **Maelstrom Captain**.
-- Current expansion/state: **Stormblood, post-Emanation**.
+- Current MSQ/state: **Stormblood 4.0, on “The Resonant”**.
 - Current gate: **False Nails after next Ananta daily reset**.
 - Platform: **Linux / Steam / Proton**.
 
@@ -31,7 +32,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 ## Current priority
 
 1. After next **11 AM daily reset**, do **3 Ananta rep quests**, then buy **False Nails**.
-2. Continue Stormblood MSQ after **Emanation**.
+2. Continue Stormblood MSQ through the base 4.0 ending.
 3. Keep retainers deployed.
 4. Use Mining/maps/leves only as breaks.
 5. Sirclucks XP is optional side work, not the main lane.
@@ -78,4 +79,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 442 WAR in Stormblood after Emanation; after reset, do **3 Ananta quests** and buy **False Nails**, then continue MSQ. Keep retainers out, use side systems only as breaks, and use RDM/SAM notes only when deliberately grinding Sirclucks XP.
+Rhela is an overleveled ilvl 442 WAR on Zalera/Crystal in Stormblood 4.0 at **“The Resonant”**; after reset, do **3 Ananta quests** and buy **False Nails**, then continue MSQ. Keep retainers out, use side systems only as breaks, and use RDM/SAM notes only when deliberately grinding Sirclucks XP.
