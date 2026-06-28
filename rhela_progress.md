@@ -47,10 +47,6 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## Active notes
 
-### Seasonal event reminder
-
-- Do **Breaking Brick Mountains 2026** before **July 13, 2026**. Notes/rewards/location are in [`seasonal_event_breaking_brick_mountains_2026.md`](seasonal_event_breaking_brick_mountains_2026.md).
-
 ### Sirclucks / alt jobs
 
 - Sirclucks is healer-first; after rank 10, level-1 ARR trash no longer matters for XP.
