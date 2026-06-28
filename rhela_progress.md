@@ -8,10 +8,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## Rules
 
-- Blunt, practical, spoiler-light, MSQ-first.
 - Do not spoil past the current MSQ milestone unless asked.
-- Avoid generic daily checklist advice.
-- Do not recommend WAR gear unless there is a real wall or a very cheap comfort refresh.
 - Keep this file lean. Put job-specific notes in separate files.
 - Treat older generated duty guides in this repo as untrusted unless verified.
 
@@ -21,9 +18,8 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 - Character: **Rhela Vahl**, female Miqo'te.
 - Home World / Data Center: **Zalera / Crystal**.
-- Main: **WAR 80+**, ilvl **442**.
-- Grand Company: **Maelstrom Captain**.
-- Current MSQ/state: **Stormblood 4.0, on “The Resonant”**.
+- Main: **WAR 82**, ilvl **442**.
+- Current MSQ: **late Stormblood 4.0**.
 - Current gate: **False Nails after next Ananta daily reset**.
 - Platform: **Linux / Steam / Proton**.
 
@@ -41,23 +37,17 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## Active notes
 
-### WAR / gear
-
-- WAR ilvl **442** is plenty for current Stormblood MSQ.
-- Possible cheap comfort refresh later around WAR 83-ish; check level 82 tank gear only if it comes up.
-
 ### Sirclucks / alt jobs
 
 - Sirclucks is healer-first; after rank 10, level-1 ARR trash no longer matters for XP.
 - For deliberate Sirclucks XP, use **Heavensward-or-newer** overworld kills/content.
-- **RDM** is the clean default bird-XP tool.
 - **SAM** is geared/available, but less clean; see `rhela_samurai_training.md`.
 - Detailed RDM notes belong in `rhela_red_mage_training.md`.
 
 ### Side systems
 
 - Miner around **56**; useful for maps/gil/breaks, not urgent.
-- Retainers: WAR/combat around **50**, Miner around **6**; keep both deployed.
+- Retainers: WAR/combat around **50**, Miner around **11**; keep both deployed.
 - Treasure maps use a personal **18-hour cooldown**.
 - Wondrous Tails / roulettes / leves are opportunistic, not homework.
 
@@ -71,7 +61,6 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## Repo note
 
-- Repo: `kain2749/ff14`.
 - This file is the main handoff only.
 - Prefer replacing stale notes over adding new ones.
 
