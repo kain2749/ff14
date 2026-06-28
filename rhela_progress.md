@@ -65,7 +65,6 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 ### Glamour
 
 - Future target: **Warfarer's Barding**.
-- When gil is stable, consider **Malignant Moggle Mogaxe** as a WAR glam weapon for the current streetwear/Cropped Cleave look.
 - Eorzea Collection: https://ffxiv.eorzeacollection.com/creator/149944
 
 ---
