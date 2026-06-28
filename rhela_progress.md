@@ -56,7 +56,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ### Side systems
 
-- Miner around **56**; useful for maps/gil/breaks, not urgent.
+- Miner around **62**; useful for maps/gil/breaks, not urgent.
 - Leve policy: **<80 ignore; 80–89 optional Miner burn; 90–99 burn down to 70–75 if convenient, or stop at 80 for a shorter burn; 100 capped/wasting regen**.
 - Retainers: WAR/combat around **50**, Miner around **11**; keep both deployed.
 - Treasure maps use a personal **18-hour cooldown**.
