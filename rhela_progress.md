@@ -68,7 +68,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ### Glamour
 
-- Future targets: **Warfarer's Barding**, **Model C-1 Tactical Hood**.
+- Future target: **Warfarer's Barding**.
 - Eorzea Collection: https://ffxiv.eorzeacollection.com/creator/149944
 
 ---
