@@ -13,11 +13,5 @@ everything here as a rough draft, not verified documentation. Before relying
 on any claim, check it against current official FFXIV sources or a reputable,
 up-to-date community reference.
 
-The combined AI-generated accuracy review is available in
-[`ffxiv_accuracy_audit_combined.txt`](ffxiv_accuracy_audit_combined.txt). That
-audit identifies many known problems, but it was also produced by an AI/LLM
-and may itself be incomplete or wrong. It is evidence that the notes need
-verification, not a guarantee that every remaining statement is accurate.
-
 Corrections are welcome. Files will be updated as claims are independently
 verified during play.
