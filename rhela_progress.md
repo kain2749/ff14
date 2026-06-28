@@ -21,7 +21,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Home World / Data Center: **Zalera / Crystal**.
 - Main: **WAR 82**, ilvl **481**.
 - Current MSQ: **late Stormblood 4.0**.
-- Current gate: **False Nails after next Ananta daily reset**.
+- Current gate: **Continue Stormblood MSQ through the base 4.0 ending**.
 - Platform: **Linux / Steam / Proton**.
 
 ---
@@ -37,9 +37,9 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## Current priority
 
-1. After next **11 AM daily reset**, do **3 Ananta rep quests**, then buy **False Nails**.
-2. Continue Stormblood MSQ through the base 4.0 ending.
-3. Keep retainers deployed.
+1. Continue Stormblood MSQ through the base 4.0 ending.
+2. Keep retainers deployed.
+3. Rebuild gil with maps/retainers/mining while avoiding unnecessary purchases.
 4. Use Mining/maps/leves only as breaks.
 5. Sirclucks XP is optional side work, not the main lane.
 
@@ -64,7 +64,6 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ### Glamour
 
-- Active target: **False Nails**.
 - Future targets: **Warfarer's Barding**, **Model C-1 Tactical Hood**.
 - Eorzea Collection: https://ffxiv.eorzeacollection.com/creator/149944
 
@@ -79,4 +78,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 481 WAR on Zalera/Crystal in Stormblood 4.0 at **“The Resonant”**; after reset, do **3 Ananta quests** and buy **False Nails**, then continue MSQ. Keep retainers out, use side systems only as breaks, and use RDM/SAM notes only when deliberately grinding Sirclucks XP.
+Rhela is an overleveled ilvl 481 WAR on Zalera/Crystal in Stormblood 4.0 at **“The Resonant”**; continue MSQ through the base 4.0 ending, keep retainers out, rebuild gil with maps/retainers/mining, and use side systems only as breaks.
