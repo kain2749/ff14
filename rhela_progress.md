@@ -19,7 +19,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 - Character: **Rhela Vahl**, female Miqo'te.
 - Home World / Data Center: **Zalera / Crystal**.
-- Main: **WAR 82**, ilvl **470**.
+- Main: **WAR 82**, ilvl **481**.
 - Current MSQ: **late Stormblood 4.0**.
 - Current gate: **False Nails after next Ananta daily reset**.
 - Platform: **Linux / Steam / Proton**.
@@ -79,4 +79,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 470 WAR on Zalera/Crystal in Stormblood 4.0 at **“The Resonant”**; after reset, do **3 Ananta quests** and buy **False Nails**, then continue MSQ. Keep retainers out, use side systems only as breaks, and use RDM/SAM notes only when deliberately grinding Sirclucks XP.
+Rhela is an overleveled ilvl 481 WAR on Zalera/Crystal in Stormblood 4.0 at **“The Resonant”**; after reset, do **3 Ananta quests** and buy **False Nails**, then continue MSQ. Keep retainers out, use side systems only as breaks, and use RDM/SAM notes only when deliberately grinding Sirclucks XP.
