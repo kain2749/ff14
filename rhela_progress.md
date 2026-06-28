@@ -25,12 +25,12 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ---
 
-## Reset times — Eastern
+## Reset times — user's local clock
 
-- Daily reset: **11 AM EDT / 10 AM EST**. Includes roulettes and allied society quests.
-- Weekly reset: **Tuesday 4 AM EDT / 3 AM EST**.
-- Squadron training + GC supply/provisioning: **4 PM EDT / 3 PM EST**.
-- Leve allowances: **8 AM/8 PM EDT / 7 AM/7 PM EST**.
+- Daily reset: **11 AM**. Includes roulettes and allied society quests.
+- Weekly reset: **Tuesday 4 AM**.
+- Squadron training + GC supply/provisioning: **4 PM**.
+- Leve allowances: **8 AM and 8 PM**.
 
 ---
 
