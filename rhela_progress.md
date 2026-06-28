@@ -10,6 +10,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 - Do not spoil past the current MSQ milestone unless asked.
 - Keep this file lean. Put job-specific notes in separate files.
+- Do not remove durable operational notes like local reset times, leve policy, server/DC, or active gates without checking with the user first.
 - Treat older generated duty guides in this repo as untrusted unless verified.
 
 ---
