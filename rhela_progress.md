@@ -62,6 +62,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Retainers: WAR/combat around **50**, Miner around **11**; keep both deployed.
 - Treasure maps use a personal **18-hour cooldown**.
 - Wondrous Tails / roulettes / leves are opportunistic, not homework.
+- Mining gil lane: **Koppranickel Sand** from **The Peaks > Rustrock**, Lv.65 rocky outcrop slot 2, Miner 61 req, around **X:23.3 Y:13.1**; previously sold around **300 gil each** on user's market board.
 
 ### Glamour
 
