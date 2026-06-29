@@ -20,8 +20,8 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Character: **Rhela Vahl**, female Miqo'te.
 - Home World / Data Center: **Zalera / Crystal**.
 - Main: **WAR 83**, ilvl **512**.
-- Current MSQ: **late Stormblood 4.0**.
-- Current gate: **Continue Stormblood MSQ through the base 4.0 ending**.
+- Current MSQ: **Stormblood 4.2**.
+- Current gate: **Continue Stormblood patch MSQ**.
 - Platform: **Linux / Steam / Proton**.
 
 ---
@@ -38,7 +38,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## Current priority
 
-1. Continue Stormblood MSQ through the base 4.0 ending.
+1. Continue Stormblood patch MSQ.
 2. Keep retainers deployed.
 3. Rebuild gil with maps/retainers/mining while avoiding unnecessary purchases.
 4. Use Mining/maps/leves only as breaks.
@@ -79,4 +79,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 512 WAR on Zalera/Crystal in Stormblood 4.0 at **“The Resonant”**; continue MSQ through the base 4.0 ending, keep retainers out, rebuild gil with maps/retainers/mining, and use side systems only as breaks.
+Rhela is an overleveled ilvl 512 WAR on Zalera/Crystal in **Stormblood 4.2**; continue Stormblood patch MSQ, keep retainers out, rebuild gil with maps/retainers/mining, and use side systems only as breaks.
