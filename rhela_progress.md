@@ -20,7 +20,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Character: **Rhela Vahl**, female Miqo'te.
 - Home World / Data Center: **Zalera / Crystal**.
 - Main: **WAR 83**, ilvl **512**.
-- Current MSQ: **Stormblood 4.2**.
+- Current MSQ: **Stormblood 4.3**.
 - Current gate: **Continue Stormblood patch MSQ**.
 - Platform: **Linux / Steam / Proton**.
 
@@ -82,4 +82,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 512 WAR on Zalera/Crystal in **Stormblood 4.2**; continue Stormblood patch MSQ, keep retainers out, rebuild gil with maps/retainers/mining, and use side systems only as breaks.
+Rhela is an overleveled ilvl 512 WAR on Zalera/Crystal in **Stormblood 4.3**; continue Stormblood patch MSQ, keep retainers out, rebuild gil with maps/retainers/mining, and use side systems only as breaks.
