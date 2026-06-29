@@ -30,6 +30,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 - Daily reset: **11 AM**. Includes roulettes and allied society quests.
 - Weekly reset: **Tuesday 4 AM**.
+- Wondrous Tails: new journal available after weekly reset, once the previous journal is turned in/rewards accepted or expires. Reference: https://ffxiv.consolegameswiki.com/wiki/Wondrous_Tails
 - Squadron training + GC supply/provisioning: **4 PM**.
 - Leve allowances: **8 AM and 8 PM**.
 
