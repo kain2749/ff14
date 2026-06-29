@@ -42,7 +42,8 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 2. Keep retainers deployed.
 3. Rebuild gil with maps/retainers/mining while avoiding unnecessary purchases.
 4. Use Mining/maps/leves only as breaks.
-5. Sirclucks XP is optional side work, not the main lane.
+5. Do Ananta dailies when convenient.
+6. Sirclucks XP is optional side work, not the main lane.
 
 ---
 
@@ -62,6 +63,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 - Retainers: WAR/combat around **50**, Miner around **11**; keep both deployed.
 - Treasure maps use a personal **18-hour cooldown**.
 - Wondrous Tails / roulettes / leves are opportunistic, not homework.
+- Ananta dailies: pick up at **Castellum Velodyna**, **The Fringes**, around **X:21.7 Y:26.2**; daily reset is **11 AM**; continue for rep/Dreamstaves and possible marketboard gil items.
 - Mining gil lane: **Koppranickel Sand** from **The Peaks > Rustrock**, Lv.65 rocky outcrop slot 2, Miner 61 req, around **X:23.3 Y:13.1**; previously sold around **300 gil each** on user's market board; list stack sizes divisible by **12**.
 
 ### Glamour
