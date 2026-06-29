@@ -1,6 +1,6 @@
 # Rhela Vahl Status Handoff
 
-Last updated: 2026-06-28
+Last updated: 2026-06-29
 
 Purpose: compact current-state file for starting a new FFXIV chat. Newer chat facts override this file.
 
@@ -19,7 +19,7 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 - Character: **Rhela Vahl**, female Miqo'te.
 - Home World / Data Center: **Zalera / Crystal**.
-- Main: **WAR 82**, ilvl **481**.
+- Main: **WAR 83**, ilvl **512**.
 - Current MSQ: **late Stormblood 4.0**.
 - Current gate: **Continue Stormblood MSQ through the base 4.0 ending**.
 - Platform: **Linux / Steam / Proton**.
@@ -79,4 +79,4 @@ Purpose: compact current-state file for starting a new FFXIV chat. Newer chat fa
 
 ## One-line summary
 
-Rhela is an overleveled ilvl 481 WAR on Zalera/Crystal in Stormblood 4.0 at **“The Resonant”**; continue MSQ through the base 4.0 ending, keep retainers out, rebuild gil with maps/retainers/mining, and use side systems only as breaks.
+Rhela is an overleveled ilvl 512 WAR on Zalera/Crystal in Stormblood 4.0 at **“The Resonant”**; continue MSQ through the base 4.0 ending, keep retainers out, rebuild gil with maps/retainers/mining, and use side systems only as breaks.
